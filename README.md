@@ -178,7 +178,7 @@ GEMINI_API_KEY=YOUR_GEMINI_API_KEY
 
 ## Author
 
-**Kanishk Gupta**
+**Kanishka Gupta**
 
 B.Tech Computer Science & Engineering
 
