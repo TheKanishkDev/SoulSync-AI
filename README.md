@@ -4,7 +4,16 @@
 
 ### AI-Powered Modern Matrimonial Platform
 
-An intelligent full-stack matrimonial platform built with **Spring Boot**, **React**, **MySQL**, and **Google Gemini AI** to provide personalized matchmaking, seamless communication, and a modern user experience.
+*Building meaningful connections through Artificial Intelligence.*
+
+<br>
+
+![Java](https://img.shields.io/badge/Java-21-red?style=flat-square&logo=openjdk)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-3-green?style=flat-square&logo=springboot)
+![React](https://img.shields.io/badge/React-19-blue?style=flat-square&logo=react)
+![Vite](https://img.shields.io/badge/Vite-Latest-purple?style=flat-square&logo=vite)
+![MySQL](https://img.shields.io/badge/MySQL-8-blue?style=flat-square&logo=mysql)
+![Gemini AI](https://img.shields.io/badge/Google-Gemini-orange?style=flat-square&logo=google)
 
 </div>
 
@@ -12,72 +21,74 @@ An intelligent full-stack matrimonial platform built with **Spring Boot**, **Rea
 
 ## Overview
 
-SoulSync AI is a modern matrimonial platform that combines traditional matchmaking with Artificial Intelligence to deliver a smarter and more personalized experience.
+**SoulSync AI** is a full-stack AI-powered matrimonial platform designed to deliver a modern, intelligent, and personalized matchmaking experience.
 
-The platform enables users to create detailed profiles, receive AI-powered partner recommendations, send and manage interest requests, communicate through an integrated chat system, and maintain complete control over their profiles.
+The application enables users to create detailed matrimonial profiles, discover compatible matches through AI-generated recommendations, send and manage interest requests, communicate through an integrated chat system, and maintain complete control over their profiles.
 
-The application is built using a scalable client-server architecture where the frontend communicates with the backend through REST APIs, while Google Gemini AI enhances matchmaking with intelligent recommendations.
+Built using **Spring Boot**, **React**, **MySQL**, and **Google Gemini AI**, the platform follows a scalable client-server architecture with RESTful APIs to ensure clean communication between the frontend and backend.
 
 ---
 
-## Key Features
+## Features
 
 ### User Management
 
-- Secure user registration and authentication
-- Create, update, and delete matrimonial profiles
-- Profile completion tracking
-- Personalized dashboard
+- Secure user registration and login
+- Create, edit, and manage matrimonial profiles
+- Delete account
+- Profile completion tracker
 
 ### AI Matchmaking
 
-- AI-powered profile recommendations
-- Personalized suggestions based on user preferences
+- AI-powered partner recommendations
 - Intelligent profile analysis
+- Personalized suggestions based on user preferences
 
 ### Communication
 
 - Send interest requests
 - Accept or decline requests
-- Real-time chat between matched users
+- Real-time chat system
+- Conversation management
 
 ### User Experience
 
-- Responsive interface
-- Modern and clean design
-- Smooth navigation
-- Fast performance
+- Clean and responsive interface
+- Fast and intuitive navigation
+- Modern UI design
 
 ---
 
-## Tech Stack
+## Technology Stack
 
 | Layer | Technologies |
 |--------|--------------|
-| Frontend | React, Vite, JavaScript, HTML, CSS |
-| Backend | Java, Spring Boot, Spring MVC, Spring Data JPA, Hibernate |
+| Frontend | React, Vite, HTML5, CSS3, JavaScript |
+| Backend | Java 21, Spring Boot, Spring MVC, Spring Data JPA, Hibernate |
 | Database | MySQL |
 | AI | Google Gemini AI |
-| Tools | Git, GitHub, Maven, Postman, IntelliJ IDEA, VS Code |
+| Build Tool | Maven |
+| Version Control | Git & GitHub |
+| API Testing | Postman |
 
 ---
 
-## System Architecture
+## Architecture
 
 ```
-                React Frontend
-                       │
-                REST API Requests
-                       │
-             Spring Boot Backend
-                       │
-              Business Logic Layer
-                       │
-              Spring Data JPA
-                       │
-                    MySQL
-                       │
-             Google Gemini AI
+                     React Frontend
+                            │
+                     REST API Requests
+                            │
+                  Spring Boot Application
+                            │
+                  Business Logic Layer
+                            │
+                    Spring Data JPA
+                            │
+                         MySQL
+                            │
+                  Google Gemini AI
 ```
 
 ---
@@ -90,11 +101,13 @@ SoulSync-AI
 ├── Backend
 │   ├── src
 │   ├── pom.xml
+│   ├── mvnw
 │   └── ...
 │
 ├── Frontend
 │   ├── src
 │   ├── public
+│   ├── package.json
 │   └── ...
 │
 └── README.md
@@ -102,15 +115,17 @@ SoulSync-AI
 
 ---
 
-## Getting Started
+## Installation
 
-### Clone the Repository
+### Clone Repository
 
 ```bash
 git clone https://github.com/TheKanishkDev/SoulSync-AI.git
 ```
 
-### Backend
+---
+
+### Backend Setup
 
 ```bash
 cd Backend
@@ -118,7 +133,9 @@ mvn clean install
 mvn spring-boot:run
 ```
 
-### Frontend
+---
+
+### Frontend Setup
 
 ```bash
 cd Frontend
@@ -130,7 +147,7 @@ npm run dev
 
 ## Environment Variables
 
-Configure the following environment variable before starting the backend.
+Before running the backend, configure the following environment variable.
 
 ```env
 GEMINI_API_KEY=YOUR_GEMINI_API_KEY
@@ -138,43 +155,47 @@ GEMINI_API_KEY=YOUR_GEMINI_API_KEY
 
 ---
 
-## Planned Enhancements
+## Screenshots
+
+> Screenshots will be added after deployment.
+
+---
+
+## Future Enhancements
 
 - AI Compatibility Score
-- Video & Voice Calling
+- Video Calling
+- Voice Calling
 - Aadhaar Verification
 - Push Notifications
 - Advanced Search Filters
 - Mobile Application
 - Multi-language Support
 - Payment Gateway Integration
-
----
-
-## Screenshots
-
-Project screenshots will be added after deployment.
+- Dark Mode
 
 ---
 
 ## Author
 
-**Kanishka Gupta**
+**Kanishk Gupta**
 
 B.Tech Computer Science & Engineering
 
 GitHub: **https://github.com/TheKanishkDev**
 
+LinkedIn: *(Add your LinkedIn profile here)*
+
 ---
 
 ## License
 
-This project is intended for educational and portfolio purposes.
+This project is developed for educational, learning, and portfolio purposes.
 
 ---
 
 <div align="center">
 
-### ⭐ If you found this project useful, consider giving it a star.
+### If you like this project, consider giving it a ⭐ on GitHub.
 
 </div>
