@@ -174,7 +174,7 @@ export default function EditProfileModal({
 
         formDataUpload.append("image",selectedImage);
 
-        const uploadResponse = await fetch(`${API_BASE_URL}/upload`,{
+        const uploadResponse = await fetch(`${API_BASE_URL}/api/upload`,{
 
             method:"POST",
 
