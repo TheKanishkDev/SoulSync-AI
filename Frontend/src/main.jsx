@@ -7,6 +7,11 @@ import {
   Trash2,
   ChevronRight,
   ChevronDown,
+  Camera,
+  Upload,
+  ShieldCheck,
+  Sparkles,
+  ImagePlus,
 } from "lucide-react";
 import { createRoot } from "react-dom/client";
 import "./app.css";
@@ -197,6 +202,7 @@ function App() {
   const [selectedConversationId, setSelectedConversationId] = useState(null);
   const [personMessages, setPersonMessages] = useState([]);
   const [isProfileModalOpen, setIsProfileModalOpen] = useState(false);
+  const [selectedImage, setSelectedImage] = useState(null);
   const knownIncomingRequestIds = useRef(new Set());
   const didLoadRequests = useRef(false);
 
@@ -366,22 +372,69 @@ function App() {
     }
   }
 
-  async function signup(signupData) {
+  async function signup(signupData, selectedImage) {
+    console.log("Signup function called");
+    console.log("Selected Image:", selectedImage);
+    console.log("selectedImage exists?", !!selectedImage);
     setIsAuthLoading(true);
     setAuthError("");
     try {
-      const response = await fetch(`${API_BASE_URL}/auth/signup`, {
+  let updatedSignupData = { ...signupData };
+  console.log("Selected Image:", selectedImage);
+
+  // Upload image if selected
+  // Upload image if selected
+if (selectedImage) {
+
+    const formData = new FormData();
+
+    formData.append("image", selectedImage);
+
+    const uploadResponse = await fetch(`${API_BASE_URL}/upload`, {
+
         method: "POST",
-        headers: { "Content-Type": "application/json" },
-        body: JSON.stringify(signupData),
-      });
-      if (!response.ok) {
-        throw new Error("Signup failed");
-      }
-      const auth = await response.json();
-      await enterSession(auth.profile);
-      setStatus("Signup complete. Your match list is ready.");
-    } catch {
+
+        body: formData,
+
+    });
+
+    if (!uploadResponse.ok) {
+
+        throw new Error("Image upload failed");
+
+    }
+
+    const uploadData = await uploadResponse.json();
+
+    updatedSignupData.profile.photoUrl = uploadData.url;
+
+    const response = await fetch(`${API_BASE_URL}/auth/signup`, {
+  method: "POST",
+  headers: {
+    "Content-Type": "application/json",
+  },
+  body: JSON.stringify(updatedSignupData),
+});
+}
+  
+
+  const response = await fetch(`${API_BASE_URL}/auth/signup`, {
+    method: "POST",
+    headers: {
+      "Content-Type": "application/json",
+    },
+    body: JSON.stringify(updatedSignupData),
+  });
+
+  if (!response.ok) {
+    throw new Error("Signup failed");
+  }
+
+  const auth = await response.json();
+  await enterSession(auth.profile);
+  setStatus("Signup complete. Your match list is ready.");
+} 
+    catch {
       const localProfile = {
         ...signupData.profile,
         id: Math.max(...profiles.map((profile) => profile.id)) + 1,
@@ -786,6 +839,7 @@ function App() {
         onClose={() => setIsProfileModalOpen(false)}
         onSave={async (updatedProfile) => {
   try {
+    console.log("Sending to backend:", updatedProfile);
     const response = await fetch(
       `${API_BASE_URL}/profiles/${updatedProfile.id}`,
       {
@@ -802,6 +856,7 @@ function App() {
     }
 
     const savedProfile = await response.json();
+    console.log(savedProfile);
 
     // Update the profile list
     setProfiles((prevProfiles) =>
@@ -811,6 +866,7 @@ function App() {
           : p
       )
     );
+
 
     setIsProfileModalOpen(false);
 
@@ -832,6 +888,7 @@ function LoginScreen({ onLogin, onSignup, status, error, isLoading }) {
     email: "",
     password: "",
   });
+  const [selectedImage, setSelectedImage] = useState(null);
   const [signupData, setSignupData] = useState({
     email: "",
     phone: "",
@@ -859,6 +916,7 @@ function LoginScreen({ onLogin, onSignup, status, error, isLoading }) {
       interests: "",
       lifeGoals: "",
       partnerExpectations: "",
+      photoUrl: "",
     },
   });
   const spotlight = fallbackProfiles[1];
@@ -987,7 +1045,7 @@ function LoginScreen({ onLogin, onSignup, status, error, isLoading }) {
               className="auth-form signup-form"
               onSubmit={(event) => {
                 event.preventDefault();
-                onSignup(signupData);
+                onSignup(signupData,selectedImage);
               }}
             >
               <TextInput
@@ -1118,6 +1176,73 @@ function LoginScreen({ onLogin, onSignup, status, error, isLoading }) {
                 }
               />
 
+              <div className="premium-photo-card">
+
+  <div className="photo-header">
+
+    <div className="photo-icon-box">
+      <Camera size={18}/>
+    </div>
+
+    <div>
+      <h3>Profile Photo</h3>
+      <p>Add a recent photo to improve your profile visibility.</p>
+    </div>
+
+  </div>
+
+  <input
+      id="profilePhoto"
+      type="file"
+      accept="image/*"
+      hidden
+      onChange={(e)=>setSelectedImage(e.target.files[0])}
+  />
+
+  <label htmlFor="profilePhoto" className="compact-upload">
+
+      <div className="compact-left">
+
+          {
+            selectedImage ?
+
+            <img
+                src={URL.createObjectURL(selectedImage)}
+                className="mini-preview"
+            />
+
+            :
+
+            <div className="upload-placeholder">
+
+                <Upload size={24}/>
+
+            </div>
+
+          }
+
+      </div>
+
+      <div className="compact-right">
+
+          <h4>
+            {selectedImage ? "Photo Selected" : "Upload Profile Photo"}
+          </h4>
+
+          <span>
+            {selectedImage
+              ? selectedImage.name
+              : "JPG, PNG • Max 10MB"}
+          </span>
+
+      </div>
+
+      <ChevronRight size={20}/>
+
+  </label>
+
+</div>
+
               <button className="primary-button" disabled={isLoading}>
                 {isLoading
                   ? "Creating profile..."
@@ -1125,12 +1250,6 @@ function LoginScreen({ onLogin, onSignup, status, error, isLoading }) {
               </button>
             </form>
           )}
-        </div>
-
-        <div className="trust-row">
-          <span>Profile-first</span>
-          <span>AI guidance</span>
-          <span>Family-ready questions</span>
         </div>
       </section>
     </main>
@@ -2107,7 +2226,7 @@ function withPhotos(apiProfiles) {
 function withPhoto(profileToDecorate) {
   return {
     ...profileToDecorate,
-    photo: photoForProfile(profileToDecorate),
+    photo: profileToDecorate.photoUrl || photoForProfile(profileToDecorate),
   };
 }
 

@@ -10,6 +10,9 @@ import {
   IndianRupee,
 } from "lucide-react";
 
+const API_BASE_URL =
+  import.meta.env.VITE_API_BASE_URL ?? "http://localhost:8080/api";
+
 function calculateCompletion(data){
 
     if(!data) return 0;
@@ -70,6 +73,9 @@ export default function EditProfileModal({
   onSave,
 }) {
   const [formData, setFormData] = useState({});
+  const [selectedImage, setSelectedImage] = useState(null);
+
+  
 
   useEffect(() => {
     if (profile) {
@@ -98,11 +104,33 @@ export default function EditProfileModal({
 
         <div className="modal-header">
 
-          <img
-            src={profile.photo}
-            className="edit-avatar"
-            alt=""
-          />
+          <div className="avatar-upload">
+  <img
+    src={
+      selectedImage
+        ? URL.createObjectURL(selectedImage)
+        : profile.photo
+    }
+    className="edit-avatar"
+    alt="Profile"
+    onClick={() => document.getElementById("photoInput").click()}
+  />
+
+  <div
+    className="camera-overlay"
+    onClick={() => document.getElementById("photoInput").click()}
+  >
+    📷
+  </div>
+
+  <input
+    id="photoInput"
+    type="file"
+    accept="image/*"
+    hidden
+    onChange={(e) => setSelectedImage(e.target.files[0])}
+  />
+</div>
 
           <h2>Edit Profile</h2>
 
@@ -134,10 +162,44 @@ export default function EditProfileModal({
         </div>
 
         <form
-          onSubmit={(e)=>{
-            e.preventDefault();
-            onSave(formData);
-          }}
+          onSubmit={async (e)=>{
+
+    e.preventDefault();
+
+    let updatedProfile = {...formData};
+
+    if(selectedImage){
+
+        const formDataUpload = new FormData();
+
+        formDataUpload.append("image",selectedImage);
+
+        const uploadResponse = await fetch(`${API_BASE_URL}/upload`,{
+
+            method:"POST",
+
+            body:formDataUpload,
+
+        });
+
+        if(!uploadResponse.ok){
+
+            alert("Image upload failed");
+
+            return;
+
+        }
+
+        const uploadData = await uploadResponse.json();
+
+        updatedProfile.photoUrl = uploadData.url;
+
+    }
+    console.log("Updated profile before save:", updatedProfile);
+
+    onSave(updatedProfile);
+
+}}
         >
 
           <h3>Personal Information</h3>
