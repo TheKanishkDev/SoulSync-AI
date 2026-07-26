@@ -91,13 +91,6 @@ public class ProfileController {
 		existing.setInterests(updatedProfile.getInterests());
 		existing.setLifeGoals(updatedProfile.getLifeGoals());
 		existing.setPartnerExpectations(updatedProfile.getPartnerExpectations());
-		existing.setPhotoUrl(updatedProfile.getPhotoUrl());
-		System.out.println("Incoming URL: " + updatedProfile.getPhotoUrl());
-
-		Profile saved = profileRepository.save(existing);
-
-		System.out.println("Saved URL: " + saved.getPhotoUrl());
-
 
 		return profileRepository.save(existing);
 	}

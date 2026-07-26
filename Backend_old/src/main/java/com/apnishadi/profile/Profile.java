@@ -40,7 +40,6 @@ public class Profile {
 	private String familyType;
 	private String wantsChildren;
 	private String relocation;
-	private String photoUrl;
 
 	@Column(length = 1000)
 	private String about;
@@ -204,14 +203,6 @@ public class Profile {
 
 	public void setRelocation(String relocation) {
 		this.relocation = relocation;
-	}
-
-	public String getPhotoUrl() {
-		return photoUrl;
-	}
-
-	public void setPhotoUrl(String photoUrl) {
-		this.photoUrl = photoUrl;
 	}
 
 	public String getAbout() {
