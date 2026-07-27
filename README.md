@@ -1,123 +1,228 @@
 <div align="center">
 
-# SoulSync AI
+# 💖 SoulSync AI
 
-### AI-Powered Modern Matrimonial Platform
+### AI-Powered Matrimonial Platform built with Spring Boot, React & Gemini AI
 
-*Building meaningful connections through Artificial Intelligence.*
+<p>
+An intelligent matchmaking platform that combines modern web technologies with Generative AI to provide personalized compatibility analysis, AI-powered relationship guidance, and a seamless matrimonial experience.
+</p>
 
-<br>
+<p>
+<a href="https://soul-sync-ai-ten.vercel.app"><img src="https://img.shields.io/badge/🌐_Live_Demo-Visit_Project-blue?style=for-the-badge"></a>
+<a href="https://github.com/TheKanishkDev/SoulSync-AI"><img src="https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github"></a>
+</p>
 
-![Java](https://img.shields.io/badge/Java-21-red?style=flat-square&logo=openjdk)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-3-green?style=flat-square&logo=springboot)
-![React](https://img.shields.io/badge/React-19-blue?style=flat-square&logo=react)
-![Vite](https://img.shields.io/badge/Vite-Latest-purple?style=flat-square&logo=vite)
-![MySQL](https://img.shields.io/badge/MySQL-8-blue?style=flat-square&logo=mysql)
-![Gemini AI](https://img.shields.io/badge/Google-Gemini-orange?style=flat-square&logo=google)
+<p>
+
+<img src="https://img.shields.io/badge/Java-21-red?style=flat-square&logo=openjdk">
+<img src="https://img.shields.io/badge/Spring_Boot-3.x-success?style=flat-square&logo=springboot">
+<img src="https://img.shields.io/badge/React-19-61DAFB?style=flat-square&logo=react">
+<img src="https://img.shields.io/badge/Vite-Frontend-646CFF?style=flat-square&logo=vite">
+<img src="https://img.shields.io/badge/MySQL-Aiven-blue?style=flat-square&logo=mysql">
+<img src="https://img.shields.io/badge/Gemini-AI-orange?style=flat-square&logo=google">
+<img src="https://img.shields.io/badge/Cloudinary-Images-3448C5?style=flat-square&logo=cloudinary">
+<img src="https://img.shields.io/badge/Render-Backend-46E3B7?style=flat-square">
+<img src="https://img.shields.io/badge/Vercel-Frontend-black?style=flat-square&logo=vercel">
+
+</p>
 
 </div>
 
 ---
 
-## Overview
+# 📌 Overview
 
-**SoulSync AI** is a full-stack AI-powered matrimonial platform designed to deliver a modern, intelligent, and personalized matchmaking experience.
+SoulSync AI is a next-generation AI-powered matrimonial platform designed to make partner discovery more meaningful through intelligent compatibility analysis.
 
-The application enables users to create detailed matrimonial profiles, discover compatible matches through AI-generated recommendations, send and manage interest requests, communicate through an integrated chat system, and maintain complete control over their profiles.
-
-Built using **Spring Boot**, **React**, **MySQL**, and **Google Gemini AI**, the platform follows a scalable client-server architecture with RESTful APIs to ensure clean communication between the frontend and backend.
+Unlike traditional matrimonial websites, SoulSync AI combines structured profile matching with Google's Gemini AI to generate personalized compatibility reports, relationship insights, conversation guidance, and AI-assisted matchmaking.
 
 ---
 
-## Features
+# ✨ Features
 
-### User Management
+## 👤 User Features
 
-- Secure user registration and login
-- Create, edit, and manage matrimonial profiles
-- Delete account
-- Profile completion tracker
-
-### AI Matchmaking
-
-- AI-powered partner recommendations
-- Intelligent profile analysis
-- Personalized suggestions based on user preferences
-
-### Communication
-
-- Send interest requests
-- Accept or decline requests
-- Real-time chat system
-- Conversation management
-
-### User Experience
-
-- Clean and responsive interface
-- Fast and intuitive navigation
-- Modern UI design
+- Secure User Registration & Login
+- Complete Matrimonial Profile Creation
+- Profile Photo Upload (Cloudinary)
+- Edit Profile
+- Smart Match Discovery
+- Interest Request System
+- Conversations between Matched Users
 
 ---
 
-## Technology Stack
+## 🤖 AI Features
 
-| Layer | Technologies |
-|--------|--------------|
-| Frontend | React, Vite, HTML5, CSS3, JavaScript |
-| Backend | Java 21, Spring Boot, Spring MVC, Spring Data JPA, Hibernate |
-| Database | MySQL |
-| AI | Google Gemini AI |
-| Build Tool | Maven |
-| Version Control | Git & GitHub |
-| API Testing | Postman |
+- AI Compatibility Report
+- AI Match Advisor
+- Personalized Match Insights
+- Strength Analysis
+- Compatibility Score
+- Suggested Discussion Topics
+- AI Relationship Guidance
 
 ---
 
-## Architecture
+## 🎯 Smart Matching
+
+- Religion Based Matching
+- City Based Matching
+- Community Based Matching
+- Gender Filtering
+- Lifestyle Compatibility
+- Education Matching
+- Profession Matching
+
+---
+
+# 🏗️ System Architecture
 
 ```
-                     React Frontend
-                            │
-                     REST API Requests
-                            │
-                  Spring Boot Application
-                            │
-                  Business Logic Layer
-                            │
-                    Spring Data JPA
-                            │
-                         MySQL
-                            │
-                  Google Gemini AI
+                     React + Vite
+                           │
+                           ▼
+                  Spring Boot REST API
+                           │
+        ┌──────────────────┼──────────────────┐
+        ▼                  ▼                  ▼
+    Gemini AI          MySQL (Aiven)     Cloudinary
+        │
+        ▼
+ AI Compatibility Engine
 ```
 
 ---
 
-## Project Structure
+# ⚙ Tech Stack
+
+## Frontend
+
+- React
+- Vite
+- CSS3
+- Lucide React
+
+## Backend
+
+- Java 21
+- Spring Boot
+- Spring Data JPA
+- REST APIs
+
+## Database
+
+- MySQL (Aiven Cloud)
+
+## AI
+
+- Google Gemini AI
+
+## Image Storage
+
+- Cloudinary
+
+## Deployment
+
+- Frontend → Vercel
+- Backend → Render
+
+---
+
+# 🚀 Live Deployment
+
+### 🌐 Frontend
+
+https://soul-sync-ai-ten.vercel.app
+
+### ⚙ Backend
+
+https://soulsync-ai-8hyt.onrender.com
+
+---
+
+# 📸 Screenshots
+
+> Replace these with actual screenshots.
+
+## 🏠 Landing Page
+
+<img width="100%" src="images/home.png">
+
+---
+
+## ❤️ Match Dashboard
+
+<img width="100%" src="images/matches.png">
+
+---
+
+## 🤖 AI Compatibility Report
+
+<img width="100%" src="images/report.png">
+
+---
+
+## 💬 AI Match Advisor
+
+<img width="100%" src="images/chat.png">
+
+---
+
+## 👤 Profile
+
+<img width="100%" src="images/profile.png">
+
+---
+
+# 📂 Project Structure
 
 ```
 SoulSync-AI
 │
 ├── Backend
-│   ├── src
-│   ├── pom.xml
-│   ├── mvnw
-│   └── ...
+│   ├── Controllers
+│   ├── Services
+│   ├── AI Module
+│   ├── Authentication
+│   ├── Repositories
+│   └── Models
 │
 ├── Frontend
-│   ├── src
-│   ├── public
-│   ├── package.json
-│   └── ...
+│   ├── Components
+│   ├── Pages
+│   ├── Assets
+│   └── Styles
 │
 └── README.md
 ```
 
 ---
 
-## Installation
+# 🤖 AI Workflow
 
-### Clone Repository
+```
+User Question
+      │
+      ▼
+Spring Boot Backend
+      │
+      ▼
+Gemini AI
+      │
+      ▼
+AI Compatibility Analysis
+      │
+      ▼
+Personalized Response
+```
+
+---
+
+# 💻 Local Installation
+
+## Clone Repository
 
 ```bash
 git clone https://github.com/TheKanishkDev/SoulSync-AI.git
@@ -125,17 +230,7 @@ git clone https://github.com/TheKanishkDev/SoulSync-AI.git
 
 ---
 
-### Backend Setup
-
-```bash
-cd Backend
-mvn clean install
-mvn spring-boot:run
-```
-
----
-
-### Frontend Setup
+## Frontend
 
 ```bash
 cd Frontend
@@ -145,57 +240,91 @@ npm run dev
 
 ---
 
-## Environment Variables
+## Backend
 
-Before running the backend, configure the following environment variable.
-
-```env
-GEMINI_API_KEY=YOUR_GEMINI_API_KEY
+```bash
+cd Backend
+mvn spring-boot:run
 ```
 
 ---
 
-## Screenshots
+# 🌍 Environment Variables
 
-> Screenshots will be added after deployment.
+## Backend
+
+```
+SPRING_DATASOURCE_URL=
+
+SPRING_DATASOURCE_USERNAME=
+
+SPRING_DATASOURCE_PASSWORD=
+
+GEMINI_API_KEY=
+
+CLOUDINARY_CLOUD_NAME=
+
+CLOUDINARY_API_KEY=
+
+CLOUDINARY_API_SECRET=
+```
 
 ---
 
-## Future Enhancements
+# 📈 Future Enhancements
 
-- AI Compatibility Score
 - Video Calling
-- Voice Calling
+- Voice AI Assistant
 - Aadhaar Verification
+- Horoscope Matching
 - Push Notifications
-- Advanced Search Filters
 - Mobile Application
+- Premium Membership
+- AI Relationship Coach
 - Multi-language Support
-- Payment Gateway Integration
-- Dark Mode
 
 ---
 
-## Author
+# 🏆 Highlights
 
-**Kanishka Gupta**
+✅ AI Powered Matchmaking
 
-B.Tech Computer Science & Engineering
+✅ AI Compatibility Report
 
-GitHub: **https://github.com/TheKanishkDev**
+✅ AI Match Advisor
 
-LinkedIn: *(Add your LinkedIn profile here)*
+✅ Cloud Image Upload
+
+✅ Secure Authentication
+
+✅ RESTful APIs
+
+✅ Cloud Deployment
+
+✅ Responsive UI
 
 ---
 
-## License
+# 👨‍💻 Developer
 
-This project is developed for educational, learning, and portfolio purposes.
+### Kanishk Gupta
+
+Computer Science Engineer
+
+Java Backend Developer
+
+Spring Boot | React | AI Integration | Cloud Deployment
+
+GitHub:
+
+https://github.com/TheKanishkDev
 
 ---
 
 <div align="center">
 
-### If you like this project, consider giving it a ⭐ on GitHub.
+## ⭐ If you found this project useful, please consider giving it a Star!
+
+Made with ❤️ using Java, Spring Boot, React & Gemini AI
 
 </div>
