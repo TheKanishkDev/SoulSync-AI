@@ -45,7 +45,7 @@ Helping people discover meaningful relationships through Artificial Intelligence
 ---
 
 <p align="center">
-<img src="assets/Landing Page.png" alt="SoulSync AI Banner"/>
+<img src="assets/Landing%20Page.png" alt="SoulSync AI Banner"/>
 </p>
 
 ## 🌟 About SoulSync AI
