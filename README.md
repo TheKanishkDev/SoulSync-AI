@@ -44,10 +44,6 @@ Helping people discover meaningful relationships through Artificial Intelligence
 
 ---
 
-<p align="center">
-<img src="Assets/Landing%20Page.png" alt="SoulSync AI Banner"/>
-</p>
-
 ## 🌟 About SoulSync AI
 
 SoulSync AI is a modern AI-powered matrimonial platform designed to transform traditional matchmaking into a personalized, intelligent and meaningful experience.
