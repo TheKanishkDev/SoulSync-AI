@@ -104,7 +104,7 @@ public class AiAdvisorService {
 				try {
 					return new AiGeneration(client.createTextResponse(ADVISOR_INSTRUCTIONS, input), true, client.provider(), client.model());
 				} catch (RuntimeException exception) {
-					LOGGER.warn("{} AI provider failed: {}", client.provider(), exception.getMessage());
+					LOGGER.error("{} AI provider failed", client.provider(), exception);
 				}
 			}
 		}
