@@ -74,21 +74,21 @@ https://soulsync-ai-8hyt.onrender.com
 
 ## Landing Page
 
-<img src="assets/Landing Page.png" width="100%"/>
+<img src="Assets/Landing Page.png" width="100%"/>
 
 ---
 
 ## Secure Login
 
-<img src="assets/Login Page.png" width="100%"/>
+<img src="Assets/Login Page.png" width="100%"/>
 
 ---
 
 ## User Registration
 
-<img src="assets/Signup page 1.png" width="100%"/>
+<img src="Assets/Signup page 1.png" width="100%"/>
 
-<img src="assets/Signup page 2.png" width="100%"/>
+<img src="Assets/Signup page 2.png" width="100%"/>
 
 ---
 
@@ -165,7 +165,7 @@ https://soulsync-ai-8hyt.onrender.com
 
 # 🎯 Dashboard
 
-<img src="assets/Dashboard.png" width="100%"/>
+<img src="Assets/Dashboard.png" width="100%"/>
 
 The dashboard provides users with:
 
@@ -179,7 +179,7 @@ The dashboard provides users with:
 ---
 # ❤️ Recommended Matches
 
-<img src="assets/Matches.png" width="100%"/>
+<img src="Assets/Matches.png" width="100%"/>
 
 SoulSync AI intelligently ranks potential matches by analyzing multiple profile attributes instead of relying only on basic filters.
 
@@ -200,7 +200,7 @@ SoulSync AI intelligently ranks potential matches by analyzing multiple profile 
 
 # 👤 Detailed Match Profile
 
-<img src="assets/Profile.png" width="100%"/>
+<img src="Assets/Profile.png" width="100%"/>
 
 Each recommended profile provides rich information to help users make informed decisions.
 
@@ -227,7 +227,7 @@ SoulSync AI integrates Google's Gemini AI to generate detailed compatibility rep
 
 ## Compatibility Overview
 
-<img src="assets/AI report 1.png" width="100%"/>
+<img src="Assets/AI report 1.png" width="100%"/>
 
 The report includes:
 
@@ -243,7 +243,7 @@ The report includes:
 
 ## Detailed Compatibility Analysis
 
-<img src="assets/AI report 2.png" width="100%"/>
+<img src="Assets/AI report 2.png" width="100%"/>
 
 The AI evaluates multiple compatibility dimensions, including:
 
@@ -260,7 +260,7 @@ Each category is assigned a score with AI-generated insights to help users under
 
 ## Personalized Recommendations
 
-<img src="assets/AI report 3.png" width="100%"/>
+<img src="Assets/AI report 3.png" width="100%"/>
 
 The report concludes with:
 
@@ -274,7 +274,7 @@ The report concludes with:
 
 # 💬 AI Relationship Advisor
 
-<img src="assets/Chat AI Advisor.png" width="55%"/>
+<img src="Assets/Chat AI Advisor.png" width="55%"/>
 
 The built-in AI Advisor enables users to ask personalized questions about any recommended profile.
 
