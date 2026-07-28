@@ -623,6 +623,6 @@ A huge thanks to the open-source community for providing the tools and libraries
 
 ⭐ If you enjoyed exploring this project, consider giving it a star!
 
-Made with ❤️ by **Kanishk Gupta**
+Made with ❤️ by **Kanishka Gupta**
 
 </div>
