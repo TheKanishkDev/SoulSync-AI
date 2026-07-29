@@ -1,7 +1,7 @@
 <!-- ========================================================= -->
 <!--                       SOULSYNC AI                         -->
 <!-- ========================================================= -->
-
+ 
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=340&color=0:FF4D8D,25:C850C0,55:8B5CF6,100:3B82F6&text=SoulSync%20AI&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI-Powered%20Relationship%20Intelligence%20Platform&descAlignY=58"/>
