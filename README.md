@@ -775,12 +775,6 @@ Religion
 <!--      PART 4 - AI FEATURES + CHAT + ARCHITECTURE       -->
 <!-- ===================================================== -->
 
-<p align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
-
-</p>
-
 <a id="ai-features"></a>
 
 <div align="center">
@@ -903,8 +897,9 @@ E --> H
 </tr>
 
 </table>
-</div>
+
 ---
+</div>
 
 <p align="center">
 
@@ -1072,17 +1067,6 @@ The **AI Relationship Advisor** enables users to ask personalized questions abou
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
 
 </p>
-
-<div align="center">
-
-# 💬 Real-Time Personal Chat
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3500&pause=1000&color=00C9A7&center=true&vCenter=true&width=900&lines=Instant+Messaging+Between+Matched+Users" />
-
-</div>
-
-
-
 ---
 
 <div align="center">
@@ -1097,9 +1081,9 @@ The **AI Relationship Advisor** enables users to ask personalized questions abou
 
 <div align="center">
 
-<img src="Assets/Personal Chat1.png" width="49%"/>
+<img src="Assets/Personal Chat1.png" width="50%"/>
 
-<img src="Assets/Personal chat2.png" width="49%"/>
+<img src="Assets/Personal chat2.png" width="50%"/>
 
 
 
@@ -1236,14 +1220,10 @@ Cloudinary --> Images["Profile Images"]
 | ⚡ Backend Hosting | Render |
 | 💬 Messaging | WebSockets |
 
-</div>
+
 ---
+</div>
 
-<p align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
-
-</p>
 <!-- ===================================================== -->
 <!-- PART 5 - TECH STACK + INSTALLATION + DEPLOYMENT       -->
 <!-- ===================================================== -->
@@ -1391,8 +1371,9 @@ Frontend Hosting
 
 </table>
 
-</div>
+
 ---
+</div>
 
 <p align="center">
 
@@ -1487,9 +1468,9 @@ CLOUDINARY_API_SECRET=
 | ☁️ Image Storage | Cloudinary |
 | 🤖 Artificial Intelligence | Google Gemini |
 
-</div>
----
 
+---
+</div>
 <div align="center">
 
 # ⚡ Production Infrastructure
@@ -1570,9 +1551,9 @@ Render
 | Cloud Database | ✅ |
 | Secure Image Upload | ✅ |
 
-</div>
----
 
+---
+</div>
 <div align="center">
 
 # 📈 Performance Highlights
@@ -1620,9 +1601,9 @@ Render
 | AI Voice Matchmaker | 🔜 |
 | Multi-language Support | 🔜 |
 
-</div>
----
 
+---
+</div>
 <div align="center">
 
 # 🤝 Contributing
