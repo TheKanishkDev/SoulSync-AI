@@ -806,3 +806,1334 @@ That's the difference.
 ## 💬 Next → Real-Time Messaging Experience
 
 </div>
+---
+
+<div align="center">
+
+# 💬 Conversations That Feel Natural
+
+### Because every meaningful relationship starts with a conversation.
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1000&center=true&width=850&color=3B82F6&lines=Instant+Messaging.;Private+Conversations.;Meaningful+Connections.;Designed+for+Modern+Relationships."/>
+
+</div>
+
+<br>
+
+<p align="center">
+
+<img width="94%" src="Assets/Chat.png"/>
+
+</p>
+
+---
+
+# ❤️ From Matching To Meaningful Conversations
+
+Getting matched is only the beginning.
+
+SoulSync AI provides a distraction-free messaging experience where users can genuinely know each other before taking the next step.
+
+No unnecessary complexity.
+
+Just meaningful conversations.
+
+---
+
+<div align="center">
+
+# ⚡ Communication Journey
+
+</div>
+
+```text
+❤️ AI Recommends Match
+          │
+          ▼
+🤝 Send Interest
+          │
+          ▼
+✅ Interest Accepted
+          │
+          ▼
+💬 Real-Time Conversation
+          │
+          ▼
+🌱 Build Understanding
+```
+
+---
+
+<div align="center">
+
+# 💎 Messaging Experience
+
+</div>
+
+<table>
+
+<tr>
+
+<td width="50%" align="center">
+
+### 💬 Real-Time Chat
+
+Conversations update instantly to keep communication smooth and engaging.
+
+</td>
+
+<td width="50%" align="center">
+
+### 🔐 Private Messaging
+
+Messages remain between matched users in a secure environment.
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" align="center">
+
+### ⚡ Responsive UI
+
+Designed to work beautifully across desktops, tablets and mobile devices.
+
+</td>
+
+<td width="50%" align="center">
+
+### ❤️ Relationship Focused
+
+Minimal interface designed to encourage meaningful conversations.
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+<div align="center">
+
+# 🏗️ Built With A Modern Architecture
+
+</div>
+
+Rather than combining everything into a single monolithic application,
+
+SoulSync AI follows a clean layered architecture that separates presentation, business logic, persistence and AI services.
+
+This makes the platform easier to maintain, secure and scale.
+
+---
+
+<div align="center">
+
+# ⚙️ High Level System Design
+
+</div>
+
+```mermaid
+flowchart LR
+
+subgraph Client
+A[⚛ React + Vite]
+end
+
+subgraph Backend
+B[☕ Spring Boot]
+C[🔐 Spring Security]
+D[⚙ REST APIs]
+end
+
+subgraph Intelligence
+E[🤖 Gemini AI]
+end
+
+subgraph Database
+F[(🗄 MySQL)]
+end
+
+subgraph Storage
+G[☁ Cloudinary]
+end
+
+A --> D
+
+D --> C
+
+D --> F
+
+D --> G
+
+D --> E
+```
+
+---
+
+<div align="center">
+
+# 🧩 Every Layer Has One Responsibility
+
+</div>
+
+<table>
+
+<tr>
+
+<td align="center">
+
+## ⚛ Frontend
+
+Beautiful user experience
+
+Responsive UI
+
+Fast navigation
+
+Modern components
+
+</td>
+
+<td align="center">
+
+## ☕ Backend
+
+REST APIs
+
+Authentication
+
+Business Logic
+
+Validation
+
+</td>
+
+<td align="center">
+
+## 🤖 AI
+
+Compatibility
+
+Recommendations
+
+Relationship Advice
+
+Reasoning
+
+</td>
+
+<td align="center">
+
+## ☁ Cloud
+
+Images
+
+Database
+
+Deployment
+
+Scalability
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+<div align="center">
+
+# 🔄 Request Lifecycle
+
+</div>
+
+```mermaid
+sequenceDiagram
+
+participant 👤 User
+participant ⚛ React
+participant ☕ Spring
+participant 🗄 Database
+participant 🤖 Gemini
+
+👤 User->>⚛ React: Action
+
+⚛ React->>☕ Spring: REST Request
+
+☕ Spring->>🗄 Database: Fetch Data
+
+☕ Spring->>🤖 Gemini: AI Analysis
+
+🗄 Database-->>☕ Spring: User Data
+
+🤖 Gemini-->>☕ Spring: AI Result
+
+☕ Spring-->>⚛ React: JSON Response
+
+⚛ React-->>👤 User: Beautiful UI
+```
+
+---
+
+<div align="center">
+
+# 🚀 Cloud Native Deployment
+
+</div>
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=vercel,java,spring,mysql,git,github"/>
+
+</p>
+
+SoulSync AI is deployed using a modern cloud architecture where every service has a dedicated responsibility.
+
+---
+
+<table>
+
+<tr>
+
+<td width="20%" align="center">
+
+### 🌐
+
+Frontend
+
+**Vercel**
+
+</td>
+
+<td width="20%" align="center">
+
+### ☕
+
+Backend
+
+**Render**
+
+</td>
+
+<td width="20%" align="center">
+
+### 🗄
+
+Database
+
+**Aiven**
+
+</td>
+
+<td width="20%" align="center">
+
+### ☁
+
+Storage
+
+**Cloudinary**
+
+</td>
+
+<td width="20%" align="center">
+
+### 🤖
+
+Artificial Intelligence
+
+**Gemini**
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+<div align="center">
+
+# 🌍 Production Deployment Flow
+
+</div>
+
+```text
+Developer
+      │
+      ▼
+
+GitHub Repository
+      │
+      ├────────────► Vercel
+      │                  │
+      │                  ▼
+      │            React Frontend
+      │
+      └────────────► Render
+                         │
+                         ▼
+                  Spring Boot APIs
+                         │
+        ┌────────────────┴──────────────┐
+        ▼                               ▼
+   Aiven MySQL                   Google Gemini
+        │
+        ▼
+  Cloudinary Storage
+```
+
+---
+
+<div align="center">
+
+# ❤️ Why This Architecture?
+
+</div>
+
+Instead of tightly coupling every feature together,
+
+SoulSync AI separates responsibilities into dedicated services.
+
+This provides:
+
+- ⚡ Better Performance
+- 🔐 Stronger Security
+- ☁ Easier Scaling
+- 🧩 Cleaner Codebase
+- 🚀 Simpler Deployment
+- 🤖 Flexible AI Integration
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=5&color=gradient"/>
+
+# 🚀 Next Up
+
+### Production Deployment • Security • Performance
+
+</div>
+---
+
+<div align="center">
+
+# 🚀 Production Ready Infrastructure
+
+### Designed for reliability. Built for scale.
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1000&center=true&width=900&color=00C9A7&lines=Cloud+Native.;Production+Ready.;Highly+Scalable.;Always+Available."/>
+
+</div>
+
+<br>
+
+<p align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rounded&height=180&color=0:00C9A7,100:3B82F6&text=Deploy%20Once.%20Scale%20Forever.&fontColor=ffffff&fontSize=40"/>
+
+</p>
+
+---
+
+# ☁ Modern Cloud Architecture
+
+<div align="center">
+
+| 🌍 Frontend | ☕ Backend | 🗄 Database | ☁ Storage | 🤖 AI |
+|:-----------:|:----------:|:-----------:|:----------:|:------:|
+| **Vercel** | **Render** | **Aiven MySQL** | **Cloudinary** | **Google Gemini** |
+
+</div>
+
+---
+
+<div align="center">
+
+# 🌐 How Everything Connects
+
+</div>
+
+```mermaid
+flowchart TD
+
+User
+
+Vercel
+
+Render
+
+Spring
+
+MySQL
+
+Cloudinary
+
+Gemini
+
+User --> Vercel
+
+Vercel --> Render
+
+Render --> Spring
+
+Spring --> MySQL
+
+Spring --> Cloudinary
+
+Spring --> Gemini
+```
+
+---
+
+# ⚡ Why This Stack?
+
+<table>
+
+<tr>
+
+<td width="33%" align="center">
+
+## ⚛ React + Vite
+
+Fast.
+
+Responsive.
+
+Component Driven.
+
+Excellent Developer Experience.
+
+</td>
+
+<td width="33%" align="center">
+
+## ☕
+
+Spring Boot
+
+Enterprise Ready.
+
+REST APIs.
+
+Security.
+
+Scalability.
+
+</td>
+
+<td width="33%" align="center">
+
+## 🤖
+
+Gemini AI
+
+Natural Language Understanding.
+
+Reasoning.
+
+Compatibility Intelligence.
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+<div align="center">
+
+# 🔐 Security First
+
+</div>
+
+Unlike many demo projects,
+
+SoulSync AI follows production-inspired security practices.
+
+✔ JWT Authentication
+
+✔ Spring Security
+
+✔ BCrypt Password Encryption
+
+✔ Protected REST APIs
+
+✔ Environment Variables
+
+✔ Secure Cloud Storage
+
+✔ Input Validation
+
+✔ Authentication Filters
+
+---
+
+<div align="center">
+
+# 🔑 Authentication Flow
+
+</div>
+
+```text
+Login
+   │
+   ▼
+
+Credentials
+   │
+   ▼
+
+Spring Security
+   │
+   ▼
+
+JWT Token
+   │
+   ▼
+
+Protected APIs
+   │
+   ▼
+
+Authorized Access
+```
+
+---
+
+<div align="center">
+
+# 📊 Performance Goals
+
+</div>
+
+| Metric | Target |
+|:-------:|:------:|
+| ⚡ Initial Load | < 2 Seconds |
+| 🚀 API Response | < 300 ms |
+| 🤖 AI Report | 3–8 Seconds |
+| 🔐 Authentication | < 500 ms |
+| 📷 Image Upload | Cloud Optimized |
+
+---
+
+<div align="center">
+
+# ❤️ Designed To Grow
+
+</div>
+
+SoulSync AI isn't built just for today's users.
+
+Its architecture allows future expansion without rewriting the entire application.
+
+Future possibilities include:
+
+✨ Voice Calling
+
+✨ Video Calling
+
+✨ Push Notifications
+
+✨ AI Voice Assistant
+
+✨ Mobile Applications
+
+✨ Personality Prediction
+
+✨ Emotion Analysis
+
+✨ Recommendation Engine v2
+
+✨ AI Match Ranking
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=5&color=gradient"/>
+
+# 📈 What's Next?
+
+### Open Source • GitHub Stats • Roadmap • Developer
+
+</div>
+
+---
+
+<div align="center">
+
+# 🌍 Open Source. Built To Learn. Built To Scale.
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1200&center=true&width=850&color=22C55E&lines=Full+Stack+Architecture.;Production+Inspired.;AI+Driven.;Open+Source."/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+> **SoulSync AI isn't just another portfolio project.**
+>
+> It represents the combination of **Artificial Intelligence, Modern Backend Engineering, Cloud Infrastructure and User-Centric Design** in a single production-inspired application.
+
+</div>
+
+---
+
+<div align="center">
+
+# 📈 Engineering Highlights
+
+</div>
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=java,spring,react,vite,mysql,git,github"/>
+
+</p>
+
+<table>
+
+<tr>
+
+<td align="center" width="25%">
+
+# ☕
+
+### Backend
+
+Spring Boot
+
+REST APIs
+
+JPA
+
+JWT
+
+Spring Security
+
+</td>
+
+<td align="center" width="25%">
+
+# ⚛
+
+### Frontend
+
+React
+
+Vite
+
+Responsive UI
+
+Modern Components
+
+</td>
+
+<td align="center" width="25%">
+
+# 🤖
+
+### Artificial Intelligence
+
+Gemini AI
+
+Prompt Engineering
+
+Compatibility Reports
+
+Relationship Advisor
+
+</td>
+
+<td align="center" width="25%">
+
+# ☁
+
+### Cloud
+
+Render
+
+Vercel
+
+Cloudinary
+
+Aiven MySQL
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+<div align="center">
+
+# 🎯 What Makes This Project Special?
+
+</div>
+
+Unlike traditional portfolio projects that simply perform CRUD operations...
+
+SoulSync AI demonstrates the integration of multiple real-world technologies working together in one ecosystem.
+
+✔ Secure Authentication
+
+✔ Cloud Deployment
+
+✔ Artificial Intelligence
+
+✔ Responsive Frontend
+
+✔ RESTful Backend
+
+✔ Cloud Image Storage
+
+✔ AI Prompt Engineering
+
+✔ Modern Software Architecture
+
+---
+
+<div align="center">
+
+# 🏆 Project Capabilities
+
+</div>
+
+```text
+👤 User Authentication
+        │
+        ▼
+❤️ Smart Match Recommendation
+        │
+        ▼
+🤖 AI Compatibility Analysis
+        │
+        ▼
+📊 Personalized Reports
+        │
+        ▼
+💬 AI Relationship Advisor
+        │
+        ▼
+⚡ Real-Time Messaging
+        │
+        ▼
+☁ Cloud Deployment
+```
+
+---
+
+<div align="center">
+
+# 📦 Technology Ecosystem
+
+</div>
+
+```mermaid
+mindmap
+
+root((SoulSync AI))
+
+Frontend
+React
+Vite
+
+Backend
+Spring Boot
+Spring Security
+JWT
+
+Database
+MySQL
+JPA
+
+Cloud
+Render
+Vercel
+Cloudinary
+
+Artificial Intelligence
+Gemini AI
+Prompt Engineering
+
+Communication
+Chat
+
+Authentication
+JWT
+```
+
+---
+
+<div align="center">
+
+# 🚀 Software Engineering Principles
+
+</div>
+
+<table>
+
+<tr>
+
+<td align="center">
+
+## 🧩
+
+Separation
+
+of
+
+Concerns
+
+</td>
+
+<td align="center">
+
+## ♻
+
+Reusable
+
+Components
+
+</td>
+
+<td align="center">
+
+## 🔒
+
+Secure
+
+Authentication
+
+</td>
+
+<td align="center">
+
+## 🚀
+
+Scalable
+
+Architecture
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+
+## ⚡
+
+Fast
+
+Development
+
+</td>
+
+<td align="center">
+
+## ☁
+
+Cloud
+
+Infrastructure
+
+</td>
+
+<td align="center">
+
+## ❤️
+
+User
+
+Experience
+
+</td>
+
+<td align="center">
+
+## 🤖
+
+AI First
+
+Approach
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+<div align="center">
+
+# 📊 Repository Analytics
+
+</div>
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=TheKanishkDev&show_icons=true&theme=transparent&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheKanishkDev&layout=compact&theme=transparent&hide_border=true"/>
+
+</p>
+
+---
+
+<div align="center">
+
+# 🔥 Contribution Streak
+
+</div>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=TheKanishkDev&theme=transparent&hide_border=true"/>
+
+</p>
+
+---
+
+<div align="center">
+
+# 🏅 GitHub Achievements
+
+</div>
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=TheKanishkDev&theme=flat&no-frame=true&column=4&margin-w=15&margin-h=15"/>
+
+</p>
+
+---
+
+<div align="center">
+
+# 📈 Development Activity
+
+</div>
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=TheKanishkDev&theme=github-compact&hide_border=true"/>
+
+</p>
+
+---
+
+<div align="center">
+
+# ❤️ If You Like This Project
+
+### Please Consider Supporting It
+
+</div>
+
+<p align="center">
+
+⭐ Star the Repository
+
+🍴 Fork the Repository
+
+💡 Share Feedback
+
+🚀 Contribute New Features
+
+❤️ Help the Project Grow
+
+</p>
+
+---
+
+<div align="center">
+
+# 🌟 Thanks For Visiting
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1200&center=true&width=700&color=F43F5E&lines=Thank+You+For+Your+Time.;Hope+You+Enjoyed+SoulSync+AI.;Happy+Coding!+🚀"/>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=170&section=footer&color=0:FF4D8D,50:8B5CF6,100:3B82F6"/>
+
+</div>
+
+---
+
+<div align="center">
+
+# ❤️ Crafted With Passion.
+
+### Built With Code.
+
+### Powered By AI.
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=24&pause=1200&center=true&vCenter=true&width=900&color=EC4899&lines=Thank+you+for+exploring+SoulSync+AI.;Every+great+relationship+starts+with+understanding.;Made+with+❤️+using+Java,+React+and+AI."/>
+
+</div>
+
+---
+
+<div align="center">
+
+# 🛣️ Roadmap
+
+</div>
+
+```mermaid
+timeline
+
+title SoulSync AI Evolution
+
+2026
+: AI Compatibility Reports
+
+: AI Advisor
+
+: Smart Matchmaking
+
+: Cloud Deployment
+
+2027
+
+: Voice Calling
+
+: Video Calling
+
+: Push Notifications
+
+: AI Voice Assistant
+
+: Android Application
+
+: iOS Application
+
+2028
+
+: Emotion Recognition
+
+: AI Personality Prediction
+
+: Recommendation Engine V2
+
+: Multi Language Support
+
+: Global Expansion
+
+```
+
+---
+
+<div align="center">
+
+# 🚀 Future Vision
+
+</div>
+
+SoulSync AI is not intended to remain just another matrimonial platform.
+
+The long-term vision is to build an **AI-powered relationship ecosystem** where technology assists people throughout their relationship journey—from discovering compatibility to meaningful communication and beyond.
+
+Future enhancements include:
+
+- 🎥 Video Introductions
+- 🤖 AI Voice Conversations
+- 📍 Smart Nearby Discovery
+- 🌎 Multi-language Support
+- ❤️ Couple Insights Dashboard
+- 📅 Date Planning Assistant
+- 🧬 Personality Prediction
+- 😊 Emotion Recognition
+- 📲 Native Android & iOS Apps
+- 🔔 Real-Time Notifications
+
+---
+
+<div align="center">
+
+# 📊 Repository Health
+
+</div>
+
+<p align="center">
+
+<img src="https://img.shields.io/github/stars/TheKanishkDev/SoulSync-AI?style=for-the-badge&logo=github"/>
+
+<img src="https://img.shields.io/github/forks/TheKanishkDev/SoulSync-AI?style=for-the-badge&logo=github"/>
+
+<img src="https://img.shields.io/github/issues/TheKanishkDev/SoulSync-AI?style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/last-commit/TheKanishkDev/SoulSync-AI?style=for-the-badge"/>
+
+<br>
+
+<img src="https://img.shields.io/github/repo-size/TheKanishkDev/SoulSync-AI?style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/languages/count/TheKanishkDev/SoulSync-AI?style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/license/TheKanishkDev/SoulSync-AI?style=for-the-badge"/>
+
+</p>
+
+---
+
+<div align="center">
+
+# 👨‍💻 Meet The Developer
+
+<img width="140" src="https://avatars.githubusercontent.com/TheKanishkDev?v=4"/>
+
+## **Kanishk Gupta**
+
+### Full Stack Java Developer • AI Enthusiast • Problem Solver
+
+*"I enjoy building software that solves real-world problems through clean architecture, scalable backend systems and practical Artificial Intelligence."*
+
+</div>
+
+---
+
+<div align="center">
+
+# 🌐 Let's Connect
+
+<a href="https://github.com/TheKanishkDev">
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+</a>
+
+&nbsp;
+
+<a href="https://www.linkedin.com/in/kanishk-gupta">
+
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+
+</a>
+
+&nbsp;
+
+<a href="mailto:YOUR_EMAIL_HERE">
+
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+
+</a>
+
+> Replace `YOUR_EMAIL_HERE` with your email address.
+
+---
+
+# 💙 Support This Project
+
+If this project helped you or inspired you in any way, consider supporting it.
+
+⭐ Star the repository
+
+🍴 Fork the repository
+
+💡 Open an issue
+
+🚀 Submit a pull request
+
+❤️ Share it with others
+
+---
+
+<div align="center">
+
+# 💎 Built Using
+
+<img src="https://skillicons.dev/icons?i=java,spring,react,vite,mysql,git,github"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Google-Gemini_AI-F9AB00?style=for-the-badge&logo=google"/>
+
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot"/>
+
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel"/>
+
+<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary"/>
+
+</div>
+
+---
+
+<div align="center">
+
+# 🙏 Acknowledgements
+
+Special thanks to the amazing open-source community and technologies that made this project possible.
+
+❤️ Java
+
+⚡ Spring Boot
+
+⚛ React
+
+🚀 Vite
+
+🤖 Google Gemini AI
+
+🗄 MySQL
+
+☁ Cloudinary
+
+🌐 Vercel
+
+⚙ Render
+
+🐙 GitHub
+
+</div>
+
+---
+
+<div align="center">
+
+# ⭐ One Last Thing...
+
+If you made it this far...
+
+Thank you for taking the time to explore **SoulSync AI**.
+
+I hope this project demonstrates not only my technical skills but also my passion for building products that solve meaningful real-world problems.
+
+<br><br>
+
+**⭐ If you enjoyed the project, don't forget to leave a star!**
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=footer&color=0:EC4899,40:8B5CF6,70:3B82F6,100:06B6D4"/>
+
+</div>
+
+<!--
+███████╗ ██████╗ ██╗   ██╗██╗     ███████╗██╗   ██╗███╗   ██╗ ██████╗
+██╔════╝██╔═══██╗██║   ██║██║     ██╔════╝╚██╗ ██╔╝████╗  ██║██╔════╝
+███████╗██║   ██║██║   ██║██║     ███████╗ ╚████╔╝ ██╔██╗ ██║██║     
+╚════██║██║   ██║██║   ██║██║     ╚════██║  ╚██╔╝  ██║╚██╗██║██║     
+███████║╚██████╔╝╚██████╔╝███████╗███████║   ██║   ██║ ╚████║╚██████╗
+╚══════╝ ╚═════╝  ╚═════╝ ╚══════╝╚══════╝   ╚═╝   ╚═╝  ╚═══╝ ╚═════╝
+
+Thanks for reading the source. ❤️
+-->
+
