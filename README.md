@@ -1076,9 +1076,9 @@ The **AI Relationship Advisor** enables users to ask personalized questions abou
 
 <div align="center">
 
-<img src="Assets/Personal Chat1.png" width="60%"/>
+<img src="Assets/Personal Chat1.png" width="90%"/>
 
-<img src="Assets/Personal chat2.png" width="60%"/>
+<img src="Assets/Personal chat2.png" width="90%"/>
 
 
 
