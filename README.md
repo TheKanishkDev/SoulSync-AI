@@ -296,7 +296,9 @@ Deploy scalable production-ready architecture.
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=20&duration=3500&pause=1000&color=00C9A7&center=true&vCenter=true&width=1000&lines=Everything+You+Need+For+Modern+Matchmaking"/>
+# 🚀 Core Features
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3500&pause=1000&color=00C9A7&center=true&vCenter=true&width=900&lines=Everything+You+Need+For+Modern+Matchmaking" />
 
 </div>
 
