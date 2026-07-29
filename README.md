@@ -479,11 +479,6 @@ Environment Variables
 
 ---
 
-<p align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
-
-</p>
 <!-- ===================================================== -->
 <!--            PART 3 - LIVE DEMO + PREVIEW               -->
 <!-- ===================================================== -->
@@ -1067,7 +1062,7 @@ The **AI Relationship Advisor** enables users to ask personalized questions abou
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
 
 </p>
----
+
 
 <div align="center">
 
@@ -1081,9 +1076,9 @@ The **AI Relationship Advisor** enables users to ask personalized questions abou
 
 <div align="center">
 
-<img src="Assets/Personal Chat1.png" width="50%"/>
+<img src="Assets/Personal Chat1.png" width="60%"/>
 
-<img src="Assets/Personal chat2.png" width="50%"/>
+<img src="Assets/Personal chat2.png" width="60%"/>
 
 
 
@@ -1375,15 +1370,7 @@ Frontend Hosting
 ---
 </div>
 
-<p align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
-
-</p>
-
-
-
----
 <a id="installation"></a>
 
 <div align="center">
