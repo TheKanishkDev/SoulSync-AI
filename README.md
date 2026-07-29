@@ -29,14 +29,6 @@
 <img src="https://img.shields.io/badge/Source%20Code-GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="#">
-<img src="https://img.shields.io/badge/Spring%20Boot-3.x-6DB33F?style=for-the-badge&logo=springboot"/>
-</a>
-
-<a href="#">
-<img src="https://img.shields.io/badge/React-19-61DAFB?style=for-the-badge&logo=react"/>
-</a>
-
 </div>
 
 ---
@@ -64,8 +56,7 @@
 <a href="#preview">Preview</a> •
 <a href="#architecture">Architecture</a> •
 <a href="#tech-stack">Tech Stack</a> •
-<a href="#installation">Installation</a> •
-<a href="#future-enhancements">Roadmap</a>
+<a href="#installation">Installation Guide</a>
 
 </div>
 
@@ -108,6 +99,8 @@ It understands **people.**
 # 🚀 Project Highlights
 
 </div>
+
+<div align="center">
 
 <table>
 
@@ -156,6 +149,8 @@ Production Deployment
 </tr>
 
 </table>
+
+</div>
 
 ---
 
