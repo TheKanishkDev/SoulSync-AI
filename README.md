@@ -56,7 +56,7 @@
 <a href="#preview">Preview</a> •
 <a href="#architecture">Architecture</a> •
 <a href="#tech-stack">Tech Stack</a> •
-<a href="#installation">Installation Guide</a>
+<a href="#installation">Installation</a>
 
 </div>
 
@@ -424,10 +424,9 @@ Environment Variables
 </tr>
 
 </table>
-</div>
 
 ---
-
+</div>
 <div align="center">
 
 # ⭐ Feature Comparison
@@ -446,8 +445,9 @@ Environment Variables
 | Cloud Native Deployment | ❌ | ✅ |
 | Responsive UI | ⚠️ | ✅ |
 
-</div>
+
 ---
+</div>
 
 <div align="center">
 
@@ -937,8 +937,9 @@ E --> H
 | ❤️ Personality | Relationship Potential |
 | 🎯 Goals | Long-Term Vision |
 
-</div>
+
 ---
+</div>
 
 <p align="center">
 
@@ -1100,10 +1101,10 @@ The **AI Relationship Advisor** enables users to ask personalized questions abou
 
 <img src="Assets/Personal chat2.png" width="49%"/>
 
-</div>
+
 
 ---
-
+</div>
 <div align="center">
 
 ## ⚡ Features
@@ -1286,10 +1287,10 @@ Cloudinary --> Images["Profile Images"]
 | 💬 Communication | WebSockets |
 | 🛠 Tools | Git, GitHub, IntelliJ IDEA, VS Code, Postman |
 
-</div>
+
 
 ---
-
+</div>
 <div align="center">
 
 # 🚀 Technology Overview
@@ -1402,7 +1403,7 @@ Frontend Hosting
 
 
 ---
-<a href="#installation">
+<a id="installation"></a>
 
 <div align="center">
 
@@ -1443,7 +1444,6 @@ mvn spring-boot:run
 ```
 
 ---
-</a>
 
 <div align="center">
 
