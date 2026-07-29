@@ -287,9 +287,9 @@ Powered by **Google Gemini AI**, the advisor provides contextual, profile-aware 
 ---
 ## 💬 Personal Chat
 
-<img src="Assets/Personal Chat1.png" width="55%"/>
+<img src="Assets/Personal Chat1.png" width="100%"/>
 
-<img src="Assets/Personal chat2.png" width="55%"/>
+<img src="Assets/Personal chat2.png" width="100%"/>
 
 **REAL-TIME MESSAGING**
 Connect instantly.
