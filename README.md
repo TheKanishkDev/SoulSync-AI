@@ -12,26 +12,6 @@
 <img src="https://img.shields.io/badge/🚀%20Live%20Application-FF4D8D?style=for-the-badge"/>
 </a>
 
-&nbsp;
-
-<a href="https://github.com/TheKanishkDev/SoulSync-AI">
-<img src="https://img.shields.io/badge/View%20Source-181717?style=for-the-badge&logo=github"/>
-</a>
-
-&nbsp;
-
-<a href="#-features">
-<img src="https://img.shields.io/badge/Explore%20Features-7C3AED?style=for-the-badge"/>
-</a>
-
-<br><br>
-
-<img src="https://img.shields.io/github/stars/TheKanishkDev/SoulSync-AI?style=social"/>
-
-<img src="https://img.shields.io/github/forks/TheKanishkDev/SoulSync-AI?style=social"/>
-
-<img src="https://img.shields.io/github/watchers/TheKanishkDev/SoulSync-AI?style=social"/>
-
 </div>
 
 ---
@@ -120,7 +100,7 @@ Meaningful Conversation
 
 <p align="center">
 
-<img width="90%" src="Assets/Compatibility Report.png"/>
+<img width="90%" src="Assets/AI report 1.png"/>
 
 </p>
 
@@ -475,7 +455,7 @@ SoulSync AI tells you **why someone is recommended**, giving every match context
 
 <p align="center">
 
-<img width="92%" src="Assets/Compatibility Report.png"/>
+<img width="92%" src="Assets/AI report 2.png"/>
 
 </p>
 
@@ -671,7 +651,7 @@ Think of it as an intelligent companion rather than an automated decision-maker.
 
 <p align="center">
 
-<img width="92%" src="Assets/AI Advisor.png"/>
+<img width="92%" src="Assets/AI chat advisor.png"/>
 
 </p>
 
@@ -822,7 +802,8 @@ That's the difference.
 
 <p align="center">
 
-<img width="94%" src="Assets/Chat.png"/>
+<img width="100%" src="Assets/Personal Chat1.png"/>
+<img width="100%" src="Assets/Personal chat2.png"/>
 
 </p>
 
@@ -1489,94 +1470,6 @@ Future possibilities include:
 
 <div align="center">
 
-# 📈 Engineering Highlights
-
-</div>
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=java,spring,react,vite,mysql,git,github"/>
-
-</p>
-
-<table>
-
-<tr>
-
-<td align="center" width="25%">
-
-# ☕
-
-### Backend
-
-Spring Boot
-
-REST APIs
-
-JPA
-
-JWT
-
-Spring Security
-
-</td>
-
-<td align="center" width="25%">
-
-# ⚛
-
-### Frontend
-
-React
-
-Vite
-
-Responsive UI
-
-Modern Components
-
-</td>
-
-<td align="center" width="25%">
-
-# 🤖
-
-### Artificial Intelligence
-
-Gemini AI
-
-Prompt Engineering
-
-Compatibility Reports
-
-Relationship Advisor
-
-</td>
-
-<td align="center" width="25%">
-
-# ☁
-
-### Cloud
-
-Render
-
-Vercel
-
-Cloudinary
-
-Aiven MySQL
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-<div align="center">
-
 # 🎯 What Makes This Project Special?
 
 </div>
@@ -1779,64 +1672,6 @@ Approach
 
 <div align="center">
 
-# 📊 Repository Analytics
-
-</div>
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=TheKanishkDev&show_icons=true&theme=transparent&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheKanishkDev&layout=compact&theme=transparent&hide_border=true"/>
-
-</p>
-
----
-
-<div align="center">
-
-# 🔥 Contribution Streak
-
-</div>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=TheKanishkDev&theme=transparent&hide_border=true"/>
-
-</p>
-
----
-
-<div align="center">
-
-# 🏅 GitHub Achievements
-
-</div>
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=TheKanishkDev&theme=flat&no-frame=true&column=4&margin-w=15&margin-h=15"/>
-
-</p>
-
----
-
-<div align="center">
-
-# 📈 Development Activity
-
-</div>
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TheKanishkDev&theme=github-compact&hide_border=true"/>
-
-</p>
-
----
-
-<div align="center">
-
 # ❤️ If You Like This Project
 
 ### Please Consider Supporting It
@@ -1937,58 +1772,6 @@ title SoulSync AI Evolution
 
 ---
 
-<div align="center">
-
-# 🚀 Future Vision
-
-</div>
-
-SoulSync AI is not intended to remain just another matrimonial platform.
-
-The long-term vision is to build an **AI-powered relationship ecosystem** where technology assists people throughout their relationship journey—from discovering compatibility to meaningful communication and beyond.
-
-Future enhancements include:
-
-- 🎥 Video Introductions
-- 🤖 AI Voice Conversations
-- 📍 Smart Nearby Discovery
-- 🌎 Multi-language Support
-- ❤️ Couple Insights Dashboard
-- 📅 Date Planning Assistant
-- 🧬 Personality Prediction
-- 😊 Emotion Recognition
-- 📲 Native Android & iOS Apps
-- 🔔 Real-Time Notifications
-
----
-
-<div align="center">
-
-# 📊 Repository Health
-
-</div>
-
-<p align="center">
-
-<img src="https://img.shields.io/github/stars/TheKanishkDev/SoulSync-AI?style=for-the-badge&logo=github"/>
-
-<img src="https://img.shields.io/github/forks/TheKanishkDev/SoulSync-AI?style=for-the-badge&logo=github"/>
-
-<img src="https://img.shields.io/github/issues/TheKanishkDev/SoulSync-AI?style=for-the-badge"/>
-
-<img src="https://img.shields.io/github/last-commit/TheKanishkDev/SoulSync-AI?style=for-the-badge"/>
-
-<br>
-
-<img src="https://img.shields.io/github/repo-size/TheKanishkDev/SoulSync-AI?style=for-the-badge"/>
-
-<img src="https://img.shields.io/github/languages/count/TheKanishkDev/SoulSync-AI?style=for-the-badge"/>
-
-<img src="https://img.shields.io/github/license/TheKanishkDev/SoulSync-AI?style=for-the-badge"/>
-
-</p>
-
----
 
 <div align="center">
 
@@ -1996,7 +1779,7 @@ Future enhancements include:
 
 <img width="140" src="https://avatars.githubusercontent.com/TheKanishkDev?v=4"/>
 
-## **Kanishk Gupta**
+## **Kanishka Gupta**
 
 ### Full Stack Java Developer • AI Enthusiast • Problem Solver
 
@@ -2018,7 +1801,7 @@ Future enhancements include:
 
 &nbsp;
 
-<a href="https://www.linkedin.com/in/kanishk-gupta">
+<a href="https://www.linkedin.com/in/kanishkagupta1609/">
 
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 
@@ -2026,7 +1809,7 @@ Future enhancements include:
 
 &nbsp;
 
-<a href="mailto:YOUR_EMAIL_HERE">
+<a href="mailto:kanishkgupta081@gmail.com">
 
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 
