@@ -406,7 +406,7 @@ CLOUDINARY_API_SECRET=
 
 # 👨‍💻 Developer
 
-## Kanishk Gupta
+## Kanishka Gupta
 
 **Computer Science Engineer**
 
