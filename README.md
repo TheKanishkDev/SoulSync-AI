@@ -651,7 +651,7 @@ Think of it as an intelligent companion rather than an automated decision-maker.
 
 <p align="center">
 
-<img width="92%" src="Assets/AI chat advisor.png"/>
+<img width="50%" src="Assets/AI chat advisor.png"/>
 
 </p>
 
