@@ -304,6 +304,7 @@ Deploy scalable production-ready architecture.
 
 <br>
 
+<div align="center">
 <table>
 
 <tr>
@@ -423,6 +424,7 @@ Environment Variables
 </tr>
 
 </table>
+</div>
 
 ---
 
@@ -431,6 +433,8 @@ Environment Variables
 # ⭐ Feature Comparison
 
 </div>
+
+<div align="center">
 
 | Feature | Traditional Apps | SoulSync AI |
 |:---------|:----------------:|:-----------:|
@@ -442,6 +446,7 @@ Environment Variables
 | Cloud Native Deployment | ❌ | ✅ |
 | Responsive UI | ⚠️ | ✅ |
 
+</div>
 ---
 
 <div align="center">
@@ -861,6 +866,8 @@ E --> H
 
 ---
 
+<div align="center">
+
 <table>
 
 <tr>
@@ -896,7 +903,7 @@ E --> H
 </tr>
 
 </table>
-
+</div>
 ---
 
 <p align="center">
@@ -917,6 +924,8 @@ E --> H
 
 </div>
 
+<div align="center">
+
 | Category | AI Analysis |
 |:---------|:-----------|
 | 📍 Location | Geographic Compatibility |
@@ -928,6 +937,7 @@ E --> H
 | ❤️ Personality | Relationship Potential |
 | 🎯 Goals | Long-Term Vision |
 
+</div>
 ---
 
 <p align="center">
@@ -1066,55 +1076,49 @@ The **AI Relationship Advisor** enables users to ask personalized questions abou
 
 # 💬 Real-Time Personal Chat
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=1&pause=999999&color=00C9A7&center=true&repeat=false&width=500&lines=Instant+Messaging+Between+Matched+Users"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3500&pause=1000&color=00C9A7&center=true&vCenter=true&width=900&lines=Instant+Messaging+Between+Matched+Users" />
+
+</div>
+
+
+
+---
+
+<div align="center">
+
+# 💬 Real-Time Personal Chat
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3500&pause=1000&color=00C9A7&center=true&vCenter=true&width=900&lines=Instant+Messaging+Between+Matched+Users"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="Assets/Personal Chat1.png" width="49%"/>
+
+<img src="Assets/Personal chat2.png" width="49%"/>
 
 </div>
 
 ---
 
-<table>
+<div align="center">
 
-<tr>
+## ⚡ Features
 
-<td width="55%">
+</div>
 
-### ⚡ Features
+- ✅ WebSocket Based Communication
+- ✅ Instant Message Delivery
+- ✅ Mutual Match Requirement
+- ✅ Secure Conversations
+- ✅ Responsive Chat Interface
+- ✅ Private Communication
+- ✅ Real-Time Notifications
+- ✅ Smooth User Experience
 
-✔ WebSocket Based Communication
-
-✔ Instant Message Delivery
-
-✔ Mutual Match Requirement
-
-✔ Secure Conversations
-
-✔ Responsive Chat Interface
-
-✔ Private Communication
-
-</td>
-
-<td width="45%">
-
-<a href="Assets/Personal Chat1.png">
-
-<img src="Assets/Personal Chat1.png"/>
-
-</a>
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-<p align="center">
-
-<a href="Assets/Personal chat2.png">
-
-<img src="Assets/Personal chat2.png" width="100%"/>
 
 </a>
 
@@ -1218,6 +1222,8 @@ Cloudinary --> Images["Profile Images"]
 
 </div>
 
+<div align="center">
+
 | Layer | Technology |
 |:------|:-----------|
 | 🎨 Frontend | React + Vite |
@@ -1229,6 +1235,7 @@ Cloudinary --> Images["Profile Images"]
 | ⚡ Backend Hosting | Render |
 | 💬 Messaging | WebSockets |
 
+</div>
 ---
 
 <p align="center">
@@ -1288,6 +1295,8 @@ Cloudinary --> Images["Profile Images"]
 # 🚀 Technology Overview
 
 </div>
+
+<div align="center">
 
 <table>
 
@@ -1381,6 +1390,7 @@ Frontend Hosting
 
 </table>
 
+</div>
 ---
 
 <p align="center">
@@ -1389,39 +1399,10 @@ Frontend Hosting
 
 </p>
 
-<div align="center">
 
-# 📂 Project Structure
-
-</div>
-
-```
-SoulSync-AI
-│
-├── 📁 Backend
-│   ├── 🎮 Controllers
-│   ├── ⚙ Services
-│   ├── 📦 Repositories
-│   ├── 📄 Models
-│   ├── 📋 DTOs
-│   ├── 🔐 Security
-│   ├── ⚡ Configuration
-│   ├── 🤖 AI Module
-│   └── 🌐 REST APIs
-│
-├── 📁 Frontend
-│   ├── 🧩 Components
-│   ├── 📄 Pages
-│   ├── 🖼 Assets
-│   ├── 🎣 Hooks
-│   ├── 🌍 Context
-│   ├── 🎨 Styles
-│   └── 🔗 Services
-│
-└── 📄 README.md
-```
 
 ---
+<a href="#installation">
 
 <div align="center">
 
@@ -1462,6 +1443,7 @@ mvn spring-boot:run
 ```
 
 ---
+</a>
 
 <div align="center">
 
@@ -1495,6 +1477,8 @@ CLOUDINARY_API_SECRET=
 
 </div>
 
+<div align="center">
+
 | Service | Platform |
 |:---------|:---------|
 | 🎨 Frontend | Vercel |
@@ -1503,6 +1487,7 @@ CLOUDINARY_API_SECRET=
 | ☁️ Image Storage | Cloudinary |
 | 🤖 Artificial Intelligence | Google Gemini |
 
+</div>
 ---
 
 <div align="center">
@@ -1573,6 +1558,8 @@ Render
 
 </div>
 
+<div align="center">
+  
 | 🔐 Feature | Status |
 |:----------|:------:|
 | JWT Authentication | ✅ |
@@ -1583,6 +1570,7 @@ Render
 | Cloud Database | ✅ |
 | Secure Image Upload | ✅ |
 
+</div>
 ---
 
 <div align="center">
@@ -1617,6 +1605,8 @@ Render
 
 </div>
 
+<div align="center">
+  
 | Feature | Status |
 |:---------|:------:|
 | AI Compatibility Reports | ✅ |
@@ -1630,6 +1620,7 @@ Render
 | AI Voice Matchmaker | 🔜 |
 | Multi-language Support | 🔜 |
 
+</div>
 ---
 
 <div align="center">
@@ -1662,7 +1653,7 @@ git push origin feature/new-feature
 
 # 👨‍💻 Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=26&duration=2500&pause=800&color=00C9A7&center=true&repeat=true&width=600&lines=Kanishk+Gupta;Java+Backend+Developer;Spring+Boot+Developer;Problem+Solver;Building+AI+Powered+Applications"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=26&duration=2500&pause=800&color=00C9A7&center=true&repeat=true&width=600&lines=Kanishka+Gupta;Java+Backend+Developer;Spring+Boot+Developer;Problem+Solver;Building+AI+Powered+Applications"/>
 
 ### Computer Science Engineer
 
@@ -1702,8 +1693,12 @@ If you found this project useful...
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=0:6C63FF,25:7F7FD5,50:91EAE4,75:A18CD1,100:FBC2EB"/>
 
-### Made with ❤️ by **Kanishk Gupta**
+### Made with ❤️ by **Kanishka Gupta**
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=2500&pause=700&color=FF61A6&center=true&repeat=true&width=650&lines=Thank+You+For+Visiting!;Happy+Coding!;Don't+Forget+to+⭐+the+Repository!"/>
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=2500&pause=700&color=FF61A6&center=true&vCenter=true&repeat=true&width=700&lines=Thank+You+For+Visiting!;Happy+Coding!;Dont+Forget+to+Star+the+Repository!"/>
+
+</div>
 
 </div>
