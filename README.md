@@ -1,49 +1,64 @@
+<!-- ========================================================= -->
+<!--                       SOULSYNC AI                         -->
+<!-- ========================================================= -->
+
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:FF4D8D,50:9B5CFF,100:3B82F6&text=SoulSync%20AI&fontSize=65&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=The%20Future%20of%20AI-Powered%20Matchmaking&descAlignY=60"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=340&color=0:FF4D8D,25:C850C0,55:8B5CF6,100:3B82F6&text=SoulSync%20AI&fontSize=68&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI-Powered%20Relationship%20Intelligence%20Platform&descAlignY=60"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&pause=1000&center=true&vCenter=true&width=950&color=FFFFFF&lines=AI+Compatibility+Reports.;Relationship+Advisor.;Smart+Matchmaking.;Real-Time+Messaging.;Built+with+Spring+Boot+%2B+React."/>
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=28&pause=1500&center=true&vCenter=true&width=1000&color=FFFFFF&lines=Find+Someone+Who+Understands+You.;Not+Just+Matches+You.;Compatibility+Backed+By+Artificial+Intelligence.;Built+With+Spring+Boot+%7C+React+%7C+Gemini+AI."/>
 
 <br><br>
 
 <a href="https://soul-sync-ai-ten.vercel.app">
-<img src="https://img.shields.io/badge/🚀%20Live%20Application-FF4D8D?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/🚀%20Live%20Demo-FF4D8D?style=for-the-badge"/>
+
 </a>
 
+&nbsp;
+
+<a href="https://github.com/TheKanishkDev/SoulSync-AI">
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+</a>
+
+&nbsp;
+
+<img src="https://img.shields.io/badge/Java-Spring%20Boot-6DB33F?style=for-the-badge"/>
+
+&nbsp;
+
+<img src="https://img.shields.io/badge/React-Vite-61DAFB?style=for-the-badge"/>
+
 </div>
 
 ---
 
-# ❤️ Finding the Right Person Shouldn't Feel Random.
+<br>
 
-Traditional matrimonial platforms stop at filters.
+# Find Someone.
 
-**SoulSync AI goes several steps further.**
+# Who Understands You.
 
-Using **Artificial Intelligence**, it studies compatibility, relationship dynamics,
-communication styles, shared values and long-term goals before recommending a match.
+## Not Just Matches You.
 
-Instead of asking
+<br>
 
-> "Who matches my filters?"
+Traditional matrimonial platforms stop after matching people.
 
-SoulSync AI answers
+**SoulSync AI doesn't.**
 
-> **"Who is actually compatible with me?"**
+It studies personalities, lifestyles, communication styles, future goals and relationship expectations to help people understand **why** they are compatible—not just **whether** they match.
 
 ---
-
-<div align="center">
-
-# ✨ Built For The Modern Generation
-
-</div>
 
 <p align="center">
 
-<img width="90%" src="Assets/Landing Page.png"/>
+<img width="100%" src="Assets/Landing Page.png"/>
 
 </p>
 
@@ -51,252 +66,190 @@ SoulSync AI answers
 
 <div align="center">
 
-## The Entire Journey
-
-</div>
-
-```text
-Discover
-    │
-    ▼
-Create Profile
-    │
-    ▼
-AI Analysis
-    │
-    ▼
-Compatibility Score
-    │
-    ▼
-Detailed AI Report
-    │
-    ▼
-Relationship Advice
-    │
-    ▼
-Meaningful Conversation
-```
-
----
-
-# 🌟 Why SoulSync AI?
-
-<div align="center">
-
-| ❤️ Traditional Apps | 🤖 SoulSync AI |
-|:-------------------:|:--------------:|
-| Browse Profiles | AI understands compatibility |
-| Basic Filters | Intelligent Match Ranking |
-| Random Decisions | Data Driven Recommendations |
-| Manual Analysis | AI Generated Reports |
-| No Guidance | Relationship Advisor |
-| Static Experience | Interactive AI Platform |
-
-</div>
-
----
-
-# 🧠 Meet Your AI Matchmaker
-
-<p align="center">
-
-<img width="90%" src="Assets/AI report 1.png"/>
-
-</p>
-
-Unlike ordinary matchmaking platforms,
-
-SoulSync AI doesn't simply show profiles.
-
-It explains:
-
-✔ Why you're compatible
-
-✔ Where conflicts may arise
-
-✔ Communication strengths
-
-✔ Shared values
-
-✔ Long-term relationship outlook
-
-✔ Personalized recommendations
-
----
-
-# 🚀 One Platform.
-
-### Everything You Need.
-
-<div align="center">
-
-| ❤️ Smart Matching | 🤖 AI Reports | 💬 AI Advisor |
-|------------------|--------------|---------------|
-| Intelligent recommendations | Compatibility analysis | Personalized relationship guidance |
-
-| 📷 Cloud Storage | ⚡ Real-Time Chat | 🔐 Secure Authentication |
-|-----------------|-----------------|-------------------------|
-| Cloudinary | Instant messaging | JWT + Spring Security |
-
-</div>
-
----
-
-# 💎 Crafted With Modern Technologies
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=java,spring,react,vite,mysql,git,github"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Google-Gemini_AI-orange?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Cloudinary-Media-blue?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Aiven-MySQL-2563EB?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Render-Backend-46E3B7?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Vercel-Frontend-black?style=for-the-badge"/>
-
-</p>
-
----
-
-<div align="center">
-
-## Scroll Down ↓
-
-The product gets better.
-
-</div>
----
-
-<div align="center">
-
-# ✨ Built Around Intelligence, Not Filters
-
-### Every recommendation is generated with purpose.
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=3500&pause=1000&center=true&vCenter=true&width=800&color=FF5E99&lines=No+Random+Suggestions.;No+Blind+Swiping.;Only+Meaningful+Compatibility."/>
+## ❤️ Every Relationship Starts With Understanding
 
 </div>
 
 <br>
 
-<p align="center">
-
-<img width="95%" src="Assets/Dashboard.png"/>
-
-</p>
-
----
-
-# ❤️ What Happens After You Sign Up?
-
-Instead of immediately showing hundreds of random profiles...
-
-SoulSync AI first understands **who you are.**
-
-It analyzes your personality, preferences, career, lifestyle and future goals before recommending someone who actually fits your life.
-
-```text
-Create Account
-      │
-      ▼
-Complete Profile
-      │
-      ▼
-AI Studies Compatibility
-      │
-      ▼
-Ranks Potential Matches
-      │
-      ▼
-Generates Compatibility Insights
-      │
-      ▼
-Meaningful Connections
-```
-
----
-
-<div align="center">
-
-# 🌸 Designed To Understand People
-
-</div>
-
 <table>
+
 <tr>
 
 <td width="33%" align="center">
 
-## ❤️ Lifestyle
+<img width="70" src="https://img.icons8.com/fluency/96/artificial-intelligence.png"/>
 
-Sleep Schedule
+### AI Compatibility
 
-Food Preference
-
-Smoking
-
-Drinking
-
-Fitness
-
-Travel
+Deep compatibility analysis powered by Google Gemini.
 
 </td>
 
 <td width="33%" align="center">
 
-## 💼 Career
+<img width="70" src="https://img.icons8.com/fluency/96/idea.png"/>
 
-Profession
+### Relationship Intelligence
 
-Education
-
-Income
-
-Goals
-
-Growth
-
-Work-Life Balance
+Understand strengths, challenges and communication patterns.
 
 </td>
 
 <td width="33%" align="center">
 
-## 🌍 Values
+<img width="70" src="https://img.icons8.com/fluency/96/chat.png"/>
 
-Religion
+### Real-Time Conversations
 
-Family
-
-Children
-
-Communication
-
-Expectations
-
-Marriage Goals
+Build meaningful relationships through private messaging.
 
 </td>
 
 </tr>
+
 </table>
 
 ---
 
 <div align="center">
 
-# 📸 Beautiful User Experience
+<img src="https://capsule-render.vercel.app/api?type=rect&height=5&color=gradient"/>
 
 </div>
+
+<br>
+
+# A Better Way To Find Your Life Partner.
+
+Instead of asking,
+
+> **"Who matches my filters?"**
+
+SoulSync AI asks,
+
+> **"Who actually fits your life?"**
+
+That single difference changes everything.
+
+---
+
+<br>
+
+```mermaid
+flowchart LR
+
+A[Create Profile]
+
+A --> B[AI Understands You]
+
+B --> C[Finds Compatible People]
+
+C --> D[Generates Detailed AI Report]
+
+D --> E[Relationship Advisor]
+
+E --> F[Meaningful Conversations]
+
+style A fill:#EC4899,color:#fff
+
+style B fill:#8B5CF6,color:#fff
+
+style C fill:#3B82F6,color:#fff
+
+style D fill:#06B6D4,color:#fff
+
+style E fill:#14B8A6,color:#fff
+
+style F fill:#22C55E,color:#fff
+```
+
+---
+
+<div align="center">
+
+# Product Showcase
+
+</div>
+
+<br>
+
+<p align="center">
+
+<img width="100%" src="Assets/Dashboard.png"/>
+
+</p>
+
+<br>
+
+<div align="center">
+
+### Beautiful Interface.
+
+### Intelligent Decisions.
+
+### Modern Relationships.
+
+</div>
+
+---
+
+# Why SoulSync AI?
+
+Most matchmaking platforms help you **discover people.**
+
+SoulSync AI helps you **understand people.**
+
+That means every recommendation includes:
+
+- ❤️ Compatibility reasoning
+- 🤖 AI-generated relationship insights
+- 💬 Communication analysis
+- 🌍 Lifestyle comparison
+- 👨‍👩‍👧 Shared values
+- 🎯 Long-term outlook
+- 🌱 Personalized guidance
+
+---
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rounded&height=170&color=0:FF4D8D,100:8B5CF6&text=Designed%20For%20Meaningful%20Relationships&fontColor=ffffff&fontSize=38"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## ↓ Experience The AI
+
+</div>
+<!-- ========================================================= -->
+<!--                  EXPERIENCE THE PRODUCT                    -->
+<!-- ========================================================= -->
+
+<div align="center">
+
+# ✨ Experience SoulSync AI
+
+### Every screen has a purpose.
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=22&pause=1500&center=true&width=900&color=FF4D8D&lines=No+Random+Profiles.;No+Blind+Decisions.;Only+Meaningful+Compatibility."/>
+
+</div>
+
+---
+
+# 01 · Create Your Identity
+
+Your journey doesn't begin with swiping.
+
+It begins with understanding **who you are.**
+
+SoulSync AI builds a meaningful profile that captures your personality, lifestyle, goals and relationship expectations before recommending anyone.
+
+<br>
 
 <p align="center">
 
@@ -316,40 +269,30 @@ Marriage Goals
 
 ---
 
-# 🚀 More Than Just Registration
-
-Every profile becomes the foundation for AI-powered decision making.
-
-Instead of static biodata...
-
-Your profile becomes a living representation of your lifestyle, ambitions and relationship expectations.
-
----
-
 <div align="center">
 
-# 🎯 AI Doesn't Guess.
+## AI Doesn't Read Profiles.
 
-## It Understands.
+## It Understands People.
 
 </div>
 
 ```mermaid
-flowchart LR
+flowchart TD
 
-A[Profile]
+A["👤 Personal Information"]
 
-B[Lifestyle]
+B["❤️ Lifestyle"]
 
-C[Career]
+C["💼 Career"]
 
-D[Values]
+D["🌍 Values"]
 
-E[Communication]
+E["🎯 Future Goals"]
 
-F[Gemini AI]
+F["🤖 Gemini AI"]
 
-G[Compatibility]
+G["🧠 Relationship Intelligence"]
 
 A --> F
 B --> F
@@ -358,73 +301,347 @@ D --> F
 E --> F
 
 F --> G
+
+style F fill:#8B5CF6,color:#fff
+style G fill:#FF4D8D,color:#fff
 ```
 
 ---
 
-# 🌟 Core Experiences
+# 02 · AI Compatibility Report
+
+Most apps tell you:
+
+> **94% Match**
+
+SoulSync AI tells you:
+
+> **Why you're compatible.**
+
+<br>
+
+<p align="center">
+
+<img width="100%" src="Assets/AI report 1.png"/>
+
+</p>
+
+---
 
 <div align="center">
 
-| Feature | Experience |
-|:---------|:-----------|
-| ❤️ Smart Matchmaking | AI ranks your most compatible matches |
-| 🤖 Compatibility Engine | Understand strengths & challenges |
-| 💬 AI Advisor | Ask relationship questions naturally |
-| 📊 Personalized Reports | Deep compatibility analysis |
-| 📷 Cloud Media | Secure profile image management |
-| 🔐 Enterprise Security | JWT + Spring Security |
-| ⚡ Real-Time Chat | Instant communication |
-| ☁ Cloud Deployment | Always available |
+# Every Match Comes With A Story.
+
+</div>
+
+Instead of generating meaningless percentages,
+
+Gemini AI analyzes both profiles and explains the relationship in language that people can actually understand.
+
+<br>
+
+<div align="center">
+
+| ❤️ Emotional Compatibility | 💬 Communication | 🌍 Shared Values |
+|:--------------------------:|:----------------:|:---------------:|
+| Personality fit | Conflict style | Long-term expectations |
+
+| 💼 Career | 👨‍👩‍👧 Family | 🌱 Growth |
+|:---------:|:------------:|:---------:|
+| Ambitions | Marriage vision | Personalized advice |
 
 </div>
 
 ---
 
+<p align="center">
+
+<img width="100%" src="Assets/AI report 2.png"/>
+
+</p>
+
+---
+
+# 03 · Ask Before You Decide
+
+Every relationship raises questions.
+
+SoulSync AI gives you a personal AI advisor that already understands both profiles before answering.
+
+<br>
+
+<p align="center">
+
+<img width="70%" src="Assets/AI chat advisor.png"/>
+
+</p>
+
+---
+
 <div align="center">
 
-# 📈 Your Journey
+### Ask Naturally
 
 </div>
 
 ```text
-👤 Create Profile
-        │
-        ▼
-🧠 AI Understands You
-        │
-        ▼
-❤️ Finds Better Matches
-        │
-        ▼
-📊 Explains Compatibility
-        │
-        ▼
-💬 Helps You Communicate
-        │
-        ▼
-🤝 Build Meaningful Relationships
+❤️ Are we emotionally compatible?
+
+💬 What should we improve?
+
+🌱 What are our strengths?
+
+⚠️ What conflicts may arise?
+
+👨‍👩‍👧 Are our family values aligned?
+
+🎯 Is this relationship sustainable?
+```
+
+---
+
+```mermaid
+sequenceDiagram
+
+participant You
+
+participant SoulSync
+
+participant Gemini
+
+You->>SoulSync: Ask Relationship Question
+
+SoulSync->>Gemini: Profile Context
+
+Gemini-->>SoulSync: Personalized Insight
+
+SoulSync-->>You: Human-Friendly Advice
 ```
 
 ---
 
 <div align="center">
 
-# 💬 Every Match Has A Story
-
-<img width="95%" src="Assets/Matches.png"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rounded&height=170&text=Compatibility%20Needs%20Context.%20Not%20Percentages.&fontSize=34&fontColor=ffffff&color=0:FF4D8D,100:8B5CF6"/>
 
 </div>
-
-Unlike traditional matrimonial websites that simply list profiles...
-
-SoulSync AI tells you **why someone is recommended**, giving every match context and meaning.
 
 ---
 
 <div align="center">
 
-## ❤️ Because choosing a life partner deserves more than filters.
+## ↓ From AI Insights To Real Conversations
+
+</div>
+<!-- ========================================================= -->
+<!--                  BUILD THE CONNECTION                     -->
+<!-- ========================================================= -->
+
+<div align="center">
+
+# 💬 Build The Connection
+
+### Because finding the right person is only the beginning.
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=22&pause=1500&center=true&width=900&color=3B82F6&lines=Private+Messaging.;Meaningful+Conversations.;Relationships+Start+Here."/>
+
+</div>
+
+---
+
+<p align="center">
+
+<img width="100%" src="Assets/Matches.png"/>
+
+</p>
+
+---
+
+# 04 · Discover People Who Truly Fit You
+
+No endless scrolling.
+
+No random recommendations.
+
+No meaningless percentages.
+
+Every suggested profile has already been analyzed by AI before it reaches you.
+
+You spend less time searching...
+
+and more time meeting people who genuinely fit your life.
+
+---
+
+<p align="center">
+
+<img width="49%" src="Assets/Personal Chat1.png"/>
+
+<img width="49%" src="Assets/Personal chat2.png"/>
+
+</p>
+
+---
+
+# 05 · Start Real Conversations
+
+Once two people connect,
+
+SoulSync AI gets out of the way.
+
+No distractions.
+
+No unnecessary features.
+
+Just a clean messaging experience focused on helping two people know each other.
+
+---
+
+<div align="center">
+
+```mermaid
+flowchart LR
+
+A["❤️ AI Match"]
+
+--> B["🤝 Connection"]
+
+--> C["💬 Private Chat"]
+
+--> D["🌱 Build Trust"]
+
+--> E["💍 Meaningful Relationship"]
+
+style A fill:#FF4D8D,color:#fff
+style C fill:#3B82F6,color:#fff
+style E fill:#22C55E,color:#fff
+```
+
+</div>
+
+---
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rounded&height=160&text=Technology%20Should%20Help%20People.%20Not%20Replace%20Them.&fontSize=34&fontColor=ffffff&color=0:3B82F6,50:8B5CF6,100:FF4D8D"/>
+
+</div>
+
+---
+
+<!-- ========================================================= -->
+<!--                    HOW IT'S BUILT                         -->
+<!-- ========================================================= -->
+
+<div align="center">
+
+# 🏗 Engineering Behind SoulSync AI
+
+### Modern. Secure. Scalable.
+
+</div>
+
+<br>
+
+<p align="center">
+
+<img width="100%" src="Assets/Dashboard.png"/>
+
+</p>
+
+---
+
+# Built Like A Production Product
+
+SoulSync AI follows a clean separation of responsibilities.
+
+Each service has one job, making the application easier to maintain, extend and scale.
+
+---
+
+<div align="center">
+
+```mermaid
+flowchart LR
+
+subgraph Client
+A["⚛️ React + Vite"]
+end
+
+subgraph API
+B["☕ Spring Boot"]
+C["🔐 Spring Security"]
+D["REST APIs"]
+end
+
+subgraph Intelligence
+E["🤖 Gemini AI"]
+end
+
+subgraph Database
+F[("🗄️ MySQL")]
+end
+
+subgraph Cloud
+G["☁️ Cloudinary"]
+end
+
+A --> D
+
+D --> B
+
+B --> C
+
+B --> F
+
+B --> G
+
+B --> E
+
+style A fill:#61DAFB,color:#000
+style B fill:#6DB33F,color:#fff
+style E fill:#8B5CF6,color:#fff
+style F fill:#3B82F6,color:#fff
+style G fill:#FF4D8D,color:#fff
+```
+
+</div>
+
+---
+
+<div align="center">
+
+# ⚙ Tech Stack
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=java,spring,react,vite,mysql,git,github"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Google_Gemini_AI-F9AB00?style=for-the-badge&logo=google"/>
+
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot"/>
+
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel"/>
+
+<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Aiven-2563EB?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary"/>
+
+</div>
+
+---
+
+<div align="center">
+
+| ⚛ Frontend | ☕ Backend | 🗄 Database | ☁ Storage | 🤖 AI |
+|:----------:|:----------:|:----------:|:----------:|:-----:|
+| React + Vite | Spring Boot | MySQL (Aiven) | Cloudinary | Google Gemini |
 
 </div>
 
@@ -434,294 +651,117 @@ SoulSync AI tells you **why someone is recommended**, giving every match context
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=5&color=gradient"/>
 
-### 🤖 Next Up → Meet the AI Brain Behind SoulSync AI
+# ↓ Production Infrastructure
 
 </div>
----
+<!-- ========================================================= -->
+<!--                 PRODUCTION & ENGINEERING                  -->
+<!-- ========================================================= -->
 
 <div align="center">
 
-# 🧠 Meet The Intelligence Behind SoulSync AI
+# Production Ready
 
-### Not just Artificial Intelligence.
-
-### **Relationship Intelligence.**
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=3500&pause=1000&center=true&width=900&color=8B5CF6&lines=Google+Gemini+Powered.;Deep+Compatibility+Analysis.;Personalized+Relationship+Guidance.;Beyond+Simple+Percentages."/>
+### Built using modern engineering practices.
 
 </div>
 
-<br>
-
-<p align="center">
-
-<img width="92%" src="Assets/AI report 2.png"/>
-
-</p>
-
 ---
 
-# ❤️ Compatibility Isn't Just A Number.
-
-Most platforms tell you
-
-> **"92% Match."**
-
-And that's it.
-
-SoulSync AI believes people deserve **an explanation**, not just a score.
-
-Instead of showing a meaningless percentage...
-
-Gemini AI carefully studies both profiles and generates a complete compatibility report explaining:
-
-- ❤️ Why you complement each other
-- ⚠️ Potential relationship challenges
-- 🌱 Areas where both people can grow
-- 💬 Communication compatibility
-- 👨‍👩‍👧 Family expectations
-- 💼 Career alignment
-- 🎯 Long-term relationship outlook
-
----
+## Architecture Principles
 
 <div align="center">
 
-# 🤖 How AI Thinks
+| 🧩 Clean Architecture | 🔐 Secure by Default | ☁ Cloud Native | ⚡ AI First |
+|:--------------------:|:-------------------:|:--------------:|:----------:|
+| Layered Design | JWT + Spring Security | Render + Vercel | Gemini Integration |
 
 </div>
 
-```mermaid
-flowchart TD
-
-A[Your Profile]
-
-B[Partner Profile]
-
-C[Lifestyle Analysis]
-
-D[Career Goals]
-
-E[Relationship Preferences]
-
-F[Communication Style]
-
-G[Google Gemini AI]
-
-H[AI Reasoning Engine]
-
-I[Compatibility Report]
-
-J[Personalized Advice]
-
-A --> G
-B --> G
-C --> G
-D --> G
-E --> G
-F --> G
-
-G --> H
-
-H --> I
-H --> J
-```
-
 ---
 
-<div align="center">
-
-# 💎 AI Doesn't Replace Human Decisions
-
-### It Makes Them Smarter.
-
-</div>
-
-SoulSync AI never decides **who you should marry.**
-
-Instead...
-
-It provides meaningful insights that help users make informed decisions with confidence.
-
-Think of it as an intelligent companion rather than an automated decision-maker.
-
----
-
-<div align="center">
-
-# 📊 Inside Every AI Report
-
-</div>
-
-<table>
-
-<tr>
-
-<td align="center">
-
-❤️
-
-### Emotional Compatibility
-
-</td>
-
-<td align="center">
-
-💬
-
-### Communication Style
-
-</td>
-
-<td align="center">
-
-🌍
-
-### Shared Values
-
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center">
-
-👨‍👩‍👧
-
-### Family Expectations
-
-</td>
-
-<td align="center">
-
-💼
-
-### Career Alignment
-
-</td>
-
-<td align="center">
-
-🎯
-
-### Future Goals
-
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center">
-
-⚠️
-
-### Possible Challenges
-
-</td>
-
-<td align="center">
-
-🌱
-
-### Growth Suggestions
-
-</td>
-
-<td align="center">
-
-⭐
-
-### Overall Compatibility
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-<div align="center">
-
-# 💬 Your Personal AI Relationship Advisor
-
-</div>
-
-<p align="center">
-
-<img width="50%" src="Assets/AI chat advisor.png"/>
-
-</p>
-
----
-
-Imagine having an experienced relationship mentor available **24×7.**
-
-That's exactly what the AI Advisor is designed to be.
-
-Whether you're unsure about compatibility or simply looking for guidance...
-
-Just ask.
-
----
-
-## 💭 Ask Questions Naturally
+## Security
 
 ```text
-❤️ Are we emotionally compatible?
+✓ JWT Authentication
 
-💬 How can we communicate better?
+✓ Spring Security
 
-🌍 Will our lifestyles match?
+✓ BCrypt Password Encryption
 
-👨‍👩‍👧 Are our family values aligned?
+✓ REST API Authorization
 
-💼 Can career differences become a problem?
+✓ Environment Variables
 
-🎯 What should we improve before marriage?
+✓ Protected Endpoints
 
-🤝 Are there any hidden challenges?
+✓ Cloud Image Storage
 
-🌱 What are our strongest qualities together?
+✓ Input Validation
 ```
 
 ---
 
-<div align="center">
+## Deployment
 
-# 🧠 AI Conversation Flow
+```mermaid
+flowchart LR
 
-</div>
+GitHub
+
+GitHub --> Vercel
+
+GitHub --> Render
+
+Render --> MySQL
+
+Render --> Cloudinary
+
+Render --> Gemini
+
+style GitHub fill:#181717,color:#fff
+style Vercel fill:#000,color:#fff
+style Render fill:#46E3B7,color:#000
+style Gemini fill:#8B5CF6,color:#fff
+```
+
+---
+
+## Request Lifecycle
 
 ```mermaid
 sequenceDiagram
 
 participant User
 
-participant SoulSync
+participant React
 
-participant Gemini AI
+participant SpringBoot
 
-User->>SoulSync: Ask Relationship Question
+participant MySQL
 
-SoulSync->>Gemini AI: Context + User Profiles
+participant Gemini
 
-Gemini AI-->>SoulSync: Personalized Response
+User->>React: Request
 
-SoulSync-->>User: Human-Friendly Advice
+React->>SpringBoot: REST API
+
+SpringBoot->>MySQL: Fetch Data
+
+SpringBoot->>Gemini: AI Processing
+
+Gemini-->>SpringBoot: AI Response
+
+SpringBoot-->>React: JSON
+
+React-->>User: Render UI
 ```
 
 ---
 
 <div align="center">
 
-# ⚡ Fast.
-
-### Intelligent.
-
-### Personalized.
+# Why This Stack?
 
 </div>
 
@@ -729,293 +769,57 @@ SoulSync-->>User: Human-Friendly Advice
 
 <tr>
 
-<td width="33%" align="center">
+<td width="25%" align="center">
 
-## 🧠
+## ⚛
 
-Prompt Engineering
+### React
 
-Optimized prompts produce structured, meaningful and context-aware responses.
+Fast UI
 
-</td>
+Reusable Components
 
-<td width="33%" align="center">
-
-## ⚡
-
-Fast Processing
-
-AI responses are generated in just a few seconds while maintaining quality.
+Modern UX
 
 </td>
 
-<td width="33%" align="center">
+<td width="25%" align="center">
 
-## ❤️
+## ☕
 
-Personalized
-
-Every response is unique because every relationship is unique.
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-<div align="center">
-
-# 🌟 Why This Matters
-
-</div>
-
-Traditional platforms help you **find people.**
-
-SoulSync AI helps you **understand people.**
-
-That's the difference.
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=5&color=gradient"/>
-
-## 💬 Next → Real-Time Messaging Experience
-
-</div>
----
-
-<div align="center">
-
-# 💬 Conversations That Feel Natural
-
-### Because every meaningful relationship starts with a conversation.
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1000&center=true&width=850&color=3B82F6&lines=Instant+Messaging.;Private+Conversations.;Meaningful+Connections.;Designed+for+Modern+Relationships."/>
-
-</div>
-
-<br>
-
-<p align="center">
-
-<img width="100%" src="Assets/Personal Chat1.png"/>
-<img width="100%" src="Assets/Personal chat2.png"/>
-
-</p>
-
----
-
-# ❤️ From Matching To Meaningful Conversations
-
-Getting matched is only the beginning.
-
-SoulSync AI provides a distraction-free messaging experience where users can genuinely know each other before taking the next step.
-
-No unnecessary complexity.
-
-Just meaningful conversations.
-
----
-
-<div align="center">
-
-# ⚡ Communication Journey
-
-</div>
-
-```text
-❤️ AI Recommends Match
-          │
-          ▼
-🤝 Send Interest
-          │
-          ▼
-✅ Interest Accepted
-          │
-          ▼
-💬 Real-Time Conversation
-          │
-          ▼
-🌱 Build Understanding
-```
-
----
-
-<div align="center">
-
-# 💎 Messaging Experience
-
-</div>
-
-<table>
-
-<tr>
-
-<td width="50%" align="center">
-
-### 💬 Real-Time Chat
-
-Conversations update instantly to keep communication smooth and engaging.
-
-</td>
-
-<td width="50%" align="center">
-
-### 🔐 Private Messaging
-
-Messages remain between matched users in a secure environment.
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" align="center">
-
-### ⚡ Responsive UI
-
-Designed to work beautifully across desktops, tablets and mobile devices.
-
-</td>
-
-<td width="50%" align="center">
-
-### ❤️ Relationship Focused
-
-Minimal interface designed to encourage meaningful conversations.
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-<div align="center">
-
-# 🏗️ Built With A Modern Architecture
-
-</div>
-
-Rather than combining everything into a single monolithic application,
-
-SoulSync AI follows a clean layered architecture that separates presentation, business logic, persistence and AI services.
-
-This makes the platform easier to maintain, secure and scale.
-
----
-
-<div align="center">
-
-# ⚙️ High Level System Design
-
-</div>
-
-```mermaid
-flowchart LR
-
-subgraph Client
-A[⚛ React + Vite]
-end
-
-subgraph Backend
-B[☕ Spring Boot]
-C[🔐 Spring Security]
-D[⚙ REST APIs]
-end
-
-subgraph Intelligence
-E[🤖 Gemini AI]
-end
-
-subgraph Database
-F[(🗄 MySQL)]
-end
-
-subgraph Storage
-G[☁ Cloudinary]
-end
-
-A --> D
-
-D --> C
-
-D --> F
-
-D --> G
-
-D --> E
-```
-
----
-
-<div align="center">
-
-# 🧩 Every Layer Has One Responsibility
-
-</div>
-
-<table>
-
-<tr>
-
-<td align="center">
-
-## ⚛ Frontend
-
-Beautiful user experience
-
-Responsive UI
-
-Fast navigation
-
-Modern components
-
-</td>
-
-<td align="center">
-
-## ☕ Backend
+### Spring Boot
 
 REST APIs
 
-Authentication
+Security
 
 Business Logic
 
-Validation
-
 </td>
 
-<td align="center">
+<td width="25%" align="center">
 
-## 🤖 AI
+## 🤖
 
-Compatibility
-
-Recommendations
-
-Relationship Advice
+### Gemini AI
 
 Reasoning
 
+Compatibility
+
+Natural Language
+
 </td>
 
-<td align="center">
+<td width="25%" align="center">
 
-## ☁ Cloud
+## ☁
 
-Images
-
-Database
+### Cloud
 
 Deployment
+
+Storage
 
 Scalability
 
@@ -1029,430 +833,49 @@ Scalability
 
 <div align="center">
 
-# 🔄 Request Lifecycle
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rounded&height=170&text=Built%20To%20Scale.%20Designed%20To%20Last.&fontSize=36&fontColor=ffffff&color=0:3B82F6,40:8B5CF6,100:FF4D8D"/>
 
 </div>
 
-```mermaid
-sequenceDiagram
-
-participant 👤 User
-participant ⚛ React
-participant ☕ Spring
-participant 🗄 Database
-participant 🤖 Gemini
-
-👤 User->>⚛ React: Action
-
-⚛ React->>☕ Spring: REST Request
-
-☕ Spring->>🗄 Database: Fetch Data
-
-☕ Spring->>🤖 Gemini: AI Analysis
-
-🗄 Database-->>☕ Spring: User Data
-
-🤖 Gemini-->>☕ Spring: AI Result
-
-☕ Spring-->>⚛ React: JSON Response
-
-⚛ React-->>👤 User: Beautiful UI
-```
-
 ---
 
-<div align="center">
-
-# 🚀 Cloud Native Deployment
-
-</div>
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=vercel,java,spring,mysql,git,github"/>
-
-</p>
-
-SoulSync AI is deployed using a modern cloud architecture where every service has a dedicated responsibility.
-
----
-
-<table>
-
-<tr>
-
-<td width="20%" align="center">
-
-### 🌐
-
-Frontend
-
-**Vercel**
-
-</td>
-
-<td width="20%" align="center">
-
-### ☕
-
-Backend
-
-**Render**
-
-</td>
-
-<td width="20%" align="center">
-
-### 🗄
-
-Database
-
-**Aiven**
-
-</td>
-
-<td width="20%" align="center">
-
-### ☁
-
-Storage
-
-**Cloudinary**
-
-</td>
-
-<td width="20%" align="center">
-
-### 🤖
-
-Artificial Intelligence
-
-**Gemini**
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-<div align="center">
-
-# 🌍 Production Deployment Flow
-
-</div>
+# Future Vision
 
 ```text
-Developer
-      │
-      ▼
+✓ Voice Calling
 
-GitHub Repository
-      │
-      ├────────────► Vercel
-      │                  │
-      │                  ▼
-      │            React Frontend
-      │
-      └────────────► Render
-                         │
-                         ▼
-                  Spring Boot APIs
-                         │
-        ┌────────────────┴──────────────┐
-        ▼                               ▼
-   Aiven MySQL                   Google Gemini
-        │
-        ▼
-  Cloudinary Storage
+✓ Video Calling
+
+✓ Push Notifications
+
+✓ Mobile Apps
+
+✓ AI Voice Assistant
+
+✓ Emotion Analysis
+
+✓ Personality Insights
+
+✓ Recommendation Engine v2
 ```
 
 ---
 
 <div align="center">
 
-# ❤️ Why This Architecture?
+# Built With
+
+<img src="https://skillicons.dev/icons?i=java,spring,react,vite,mysql,git,github"/>
 
 </div>
-
-Instead of tightly coupling every feature together,
-
-SoulSync AI separates responsibilities into dedicated services.
-
-This provides:
-
-- ⚡ Better Performance
-- 🔐 Stronger Security
-- ☁ Easier Scaling
-- 🧩 Cleaner Codebase
-- 🚀 Simpler Deployment
-- 🤖 Flexible AI Integration
 
 ---
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=5&color=gradient"/>
-
-# 🚀 Next Up
-
-### Production Deployment • Security • Performance
-
-</div>
----
-
-<div align="center">
-
-# 🚀 Production Ready Infrastructure
-
-### Designed for reliability. Built for scale.
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1000&center=true&width=900&color=00C9A7&lines=Cloud+Native.;Production+Ready.;Highly+Scalable.;Always+Available."/>
-
-</div>
 
 <br>
 
-<p align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rounded&height=180&color=0:00C9A7,100:3B82F6&text=Deploy%20Once.%20Scale%20Forever.&fontColor=ffffff&fontSize=40"/>
-
-</p>
-
----
-
-# ☁ Modern Cloud Architecture
-
 <div align="center">
 
-| 🌍 Frontend | ☕ Backend | 🗄 Database | ☁ Storage | 🤖 AI |
-|:-----------:|:----------:|:-----------:|:----------:|:------:|
-| **Vercel** | **Render** | **Aiven MySQL** | **Cloudinary** | **Google Gemini** |
-
-</div>
-
----
-
-<div align="center">
-
-# 🌐 How Everything Connects
-
-</div>
-
-```mermaid
-flowchart TD
-
-User
-
-Vercel
-
-Render
-
-Spring
-
-MySQL
-
-Cloudinary
-
-Gemini
-
-User --> Vercel
-
-Vercel --> Render
-
-Render --> Spring
-
-Spring --> MySQL
-
-Spring --> Cloudinary
-
-Spring --> Gemini
-```
-
----
-
-# ⚡ Why This Stack?
-
-<table>
-
-<tr>
-
-<td width="33%" align="center">
-
-## ⚛ React + Vite
-
-Fast.
-
-Responsive.
-
-Component Driven.
-
-Excellent Developer Experience.
-
-</td>
-
-<td width="33%" align="center">
-
-## ☕
-
-Spring Boot
-
-Enterprise Ready.
-
-REST APIs.
-
-Security.
-
-Scalability.
-
-</td>
-
-<td width="33%" align="center">
-
-## 🤖
-
-Gemini AI
-
-Natural Language Understanding.
-
-Reasoning.
-
-Compatibility Intelligence.
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-<div align="center">
-
-# 🔐 Security First
-
-</div>
-
-Unlike many demo projects,
-
-SoulSync AI follows production-inspired security practices.
-
-✔ JWT Authentication
-
-✔ Spring Security
-
-✔ BCrypt Password Encryption
-
-✔ Protected REST APIs
-
-✔ Environment Variables
-
-✔ Secure Cloud Storage
-
-✔ Input Validation
-
-✔ Authentication Filters
-
----
-
-<div align="center">
-
-# 🔑 Authentication Flow
-
-</div>
-
-```text
-Login
-   │
-   ▼
-
-Credentials
-   │
-   ▼
-
-Spring Security
-   │
-   ▼
-
-JWT Token
-   │
-   ▼
-
-Protected APIs
-   │
-   ▼
-
-Authorized Access
-```
-
----
-
-<div align="center">
-
-# 📊 Performance Goals
-
-</div>
-
-| Metric | Target |
-|:-------:|:------:|
-| ⚡ Initial Load | < 2 Seconds |
-| 🚀 API Response | < 300 ms |
-| 🤖 AI Report | 3–8 Seconds |
-| 🔐 Authentication | < 500 ms |
-| 📷 Image Upload | Cloud Optimized |
-
----
-
-<div align="center">
-
-# ❤️ Designed To Grow
-
-</div>
-
-SoulSync AI isn't built just for today's users.
-
-Its architecture allows future expansion without rewriting the entire application.
-
-Future possibilities include:
-
-✨ Voice Calling
-
-✨ Video Calling
-
-✨ Push Notifications
-
-✨ AI Voice Assistant
-
-✨ Mobile Applications
-
-✨ Personality Prediction
-
-✨ Emotion Analysis
-
-✨ Recommendation Engine v2
-
-✨ AI Match Ranking
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=5&color=gradient"/>
-
-# 📈 What's Next?
-
-### Open Source • GitHub Stats • Roadmap • Developer
-
-</div>
-
----
-
-<div align="center">
-
-# 🌍 Open Source. Built To Learn. Built To Scale.
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1200&center=true&width=850&color=22C55E&lines=Full+Stack+Architecture.;Production+Inspired.;AI+Driven.;Open+Source."/>
+<img src="https://github-readme-stats.vercel.app/api?username=TheKanishkDev&show_icons=true&theme=transparent&hide_border=true"/>
 
 </div>
 
@@ -1460,338 +883,43 @@ Future possibilities include:
 
 <div align="center">
 
-> **SoulSync AI isn't just another portfolio project.**
->
-> It represents the combination of **Artificial Intelligence, Modern Backend Engineering, Cloud Infrastructure and User-Centric Design** in a single production-inspired application.
+<img src="https://streak-stats.demolab.com?user=TheKanishkDev&theme=transparent&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TheKanishkDev&theme=github_dark"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=TheKanishkDev&theme=github-compact&hide_border=true"/>
 
 </div>
 
 ---
 
-<div align="center">
-
-# 🎯 What Makes This Project Special?
-
-</div>
-
-Unlike traditional portfolio projects that simply perform CRUD operations...
-
-SoulSync AI demonstrates the integration of multiple real-world technologies working together in one ecosystem.
-
-✔ Secure Authentication
-
-✔ Cloud Deployment
-
-✔ Artificial Intelligence
-
-✔ Responsive Frontend
-
-✔ RESTful Backend
-
-✔ Cloud Image Storage
-
-✔ AI Prompt Engineering
-
-✔ Modern Software Architecture
-
----
+<br>
 
 <div align="center">
 
-# 🏆 Project Capabilities
-
-</div>
-
-```text
-👤 User Authentication
-        │
-        ▼
-❤️ Smart Match Recommendation
-        │
-        ▼
-🤖 AI Compatibility Analysis
-        │
-        ▼
-📊 Personalized Reports
-        │
-        ▼
-💬 AI Relationship Advisor
-        │
-        ▼
-⚡ Real-Time Messaging
-        │
-        ▼
-☁ Cloud Deployment
-```
-
----
-
-<div align="center">
-
-# 📦 Technology Ecosystem
-
-</div>
-
-```mermaid
-mindmap
-
-root((SoulSync AI))
-
-Frontend
-React
-Vite
-
-Backend
-Spring Boot
-Spring Security
-JWT
-
-Database
-MySQL
-JPA
-
-Cloud
-Render
-Vercel
-Cloudinary
-
-Artificial Intelligence
-Gemini AI
-Prompt Engineering
-
-Communication
-Chat
-
-Authentication
-JWT
-```
-
----
-
-<div align="center">
-
-# 🚀 Software Engineering Principles
-
-</div>
-
-<table>
-
-<tr>
-
-<td align="center">
-
-## 🧩
-
-Separation
-
-of
-
-Concerns
-
-</td>
-
-<td align="center">
-
-## ♻
-
-Reusable
-
-Components
-
-</td>
-
-<td align="center">
-
-## 🔒
-
-Secure
-
-Authentication
-
-</td>
-
-<td align="center">
-
-## 🚀
-
-Scalable
-
-Architecture
-
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center">
-
-## ⚡
-
-Fast
-
-Development
-
-</td>
-
-<td align="center">
-
-## ☁
-
-Cloud
-
-Infrastructure
-
-</td>
-
-<td align="center">
-
-## ❤️
-
-User
-
-Experience
-
-</td>
-
-<td align="center">
-
-## 🤖
-
-AI First
-
-Approach
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-<div align="center">
-
-# ❤️ If You Like This Project
-
-### Please Consider Supporting It
-
-</div>
-
-<p align="center">
-
-⭐ Star the Repository
-
-🍴 Fork the Repository
-
-💡 Share Feedback
-
-🚀 Contribute New Features
-
-❤️ Help the Project Grow
-
-</p>
-
----
-
-<div align="center">
-
-# 🌟 Thanks For Visiting
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1200&center=true&width=700&color=F43F5E&lines=Thank+You+For+Your+Time.;Hope+You+Enjoyed+SoulSync+AI.;Happy+Coding!+🚀"/>
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=170&section=footer&color=0:FF4D8D,50:8B5CF6,100:3B82F6"/>
-
-</div>
-
----
-
-<div align="center">
-
-# ❤️ Crafted With Passion.
-
-### Built With Code.
-
-### Powered By AI.
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=24&pause=1200&center=true&vCenter=true&width=900&color=EC4899&lines=Thank+you+for+exploring+SoulSync+AI.;Every+great+relationship+starts+with+understanding.;Made+with+❤️+using+Java,+React+and+AI."/>
-
-</div>
-
----
-
-<div align="center">
-
-# 🛣️ Roadmap
-
-</div>
-
-```mermaid
-timeline
-
-title SoulSync AI Evolution
-
-2026
-: AI Compatibility Reports
-
-: AI Advisor
-
-: Smart Matchmaking
-
-: Cloud Deployment
-
-2027
-
-: Voice Calling
-
-: Video Calling
-
-: Push Notifications
-
-: AI Voice Assistant
-
-: Android Application
-
-: iOS Application
-
-2028
-
-: Emotion Recognition
-
-: AI Personality Prediction
-
-: Recommendation Engine V2
-
-: Multi Language Support
-
-: Global Expansion
-
-```
-
----
-
-
-<div align="center">
-
-# 👨‍💻 Meet The Developer
+# Meet The Developer
 
 <img width="140" src="https://avatars.githubusercontent.com/TheKanishkDev?v=4"/>
 
-## **Kanishka Gupta**
+## Kanishk Gupta
 
-### Full Stack Java Developer • AI Enthusiast • Problem Solver
+**Full Stack Java Developer**
 
-*"I enjoy building software that solves real-world problems through clean architecture, scalable backend systems and practical Artificial Intelligence."*
+Building modern backend systems, AI-powered applications and cloud-native software.
 
-</div>
-
----
-
-<div align="center">
-
-# 🌐 Let's Connect
+<br>
 
 <a href="https://github.com/TheKanishkDev">
 
@@ -1803,7 +931,7 @@ title SoulSync AI Evolution
 
 <a href="https://www.linkedin.com/in/kanishkagupta1609/">
 
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 
 </a>
 
@@ -1811,112 +939,26 @@ title SoulSync AI Evolution
 
 <a href="mailto:kanishkgupta081@gmail.com">
 
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 
 </a>
 
-> Replace `YOUR_EMAIL_HERE` with your email address.
-
----
-
-# 💙 Support This Project
-
-If this project helped you or inspired you in any way, consider supporting it.
-
-⭐ Star the repository
-
-🍴 Fork the repository
-
-💡 Open an issue
-
-🚀 Submit a pull request
-
-❤️ Share it with others
-
----
-
-<div align="center">
-
-# 💎 Built Using
-
-<img src="https://skillicons.dev/icons?i=java,spring,react,vite,mysql,git,github"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Google-Gemini_AI-F9AB00?style=for-the-badge&logo=google"/>
-
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot"/>
-
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel"/>
-
-<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary"/>
-
 </div>
 
 ---
 
-<div align="center">
-
-# 🙏 Acknowledgements
-
-Special thanks to the amazing open-source community and technologies that made this project possible.
-
-❤️ Java
-
-⚡ Spring Boot
-
-⚛ React
-
-🚀 Vite
-
-🤖 Google Gemini AI
-
-🗄 MySQL
-
-☁ Cloudinary
-
-🌐 Vercel
-
-⚙ Render
-
-🐙 GitHub
-
-</div>
-
----
+<br>
 
 <div align="center">
 
-# ⭐ One Last Thing...
+# If You Like SoulSync AI
 
-If you made it this far...
+Give this project a ⭐
 
-Thank you for taking the time to explore **SoulSync AI**.
-
-I hope this project demonstrates not only my technical skills but also my passion for building products that solve meaningful real-world problems.
+It helps more than you think.
 
 <br><br>
 
-**⭐ If you enjoyed the project, don't forget to leave a star!**
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=footer&color=0:EC4899,40:8B5CF6,70:3B82F6,100:06B6D4"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=0:FF4D8D,35:8B5CF6,65:3B82F6,100:06B6D4"/>
 
 </div>
-
-<!--
-███████╗ ██████╗ ██╗   ██╗██╗     ███████╗██╗   ██╗███╗   ██╗ ██████╗
-██╔════╝██╔═══██╗██║   ██║██║     ██╔════╝╚██╗ ██╔╝████╗  ██║██╔════╝
-███████╗██║   ██║██║   ██║██║     ███████╗ ╚████╔╝ ██╔██╗ ██║██║     
-╚════██║██║   ██║██║   ██║██║     ╚════██║  ╚██╔╝  ██║╚██╗██║██║     
-███████║╚██████╔╝╚██████╔╝███████╗███████║   ██║   ██║ ╚████║╚██████╗
-╚══════╝ ╚═════╝  ╚═════╝ ╚══════╝╚══════╝   ╚═╝   ╚═╝  ╚═══╝ ╚═════╝
-
-Thanks for reading the source. ❤️
--->
-
