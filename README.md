@@ -171,19 +171,13 @@ Production Deployment
 <!--              PART 2 - ABOUT + FEATURES                -->
 <!-- ===================================================== -->
 
-<p align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
-
-</p>
-
 <a id="about"></a>
 
 <div align="center">
 
 # 🌟 About SoulSync AI
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=1&pause=999999&color=8A2BE2&center=true&vCenter=true&repeat=false&width=500&lines=Where+Artificial+Intelligence+Meets+Meaningful+Relationships"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=8A2BE2&center=true&vCenter=true&width=900&lines=Where+Artificial+Intelligence+Meets+Meaningful+Relationships" />
 
 </div>
 
@@ -194,6 +188,7 @@ Production Deployment
 <tr>
 
 <td width="55%">
+
 
 ### 💖 Intelligent Matchmaking
 
