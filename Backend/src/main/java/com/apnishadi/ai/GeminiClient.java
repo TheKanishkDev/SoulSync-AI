@@ -100,15 +100,21 @@ public class GeminiClient implements AiTextClient {
 	}
 
 	private HttpRequest createRequest(String requestBody) {
-		HttpRequest request = HttpRequest.newBuilder()
-				.uri(URI.create(baseUrl + "/models/" + encode(model) + ":generateContent"))
-				.timeout(Duration.ofSeconds(45))
-				.header("x-goog-api-key", apiKey)
-				.header("Content-Type", "application/json")
-				.POST(HttpRequest.BodyPublishers.ofString(requestBody.toString()))
-				.build();
-		return request;
-	}
+
+    System.out.println("BASE URL = " + baseUrl);
+    System.out.println("MODEL = " + model);
+
+    String url = baseUrl + "/models/" + encode(model) + ":generateContent";
+    System.out.println("FINAL URL = " + url);
+
+    return HttpRequest.newBuilder()
+            .uri(URI.create(url))
+            .timeout(Duration.ofSeconds(45))
+            .header("x-goog-api-key", apiKey)
+            .header("Content-Type", "application/json")
+            .POST(HttpRequest.BodyPublishers.ofString(requestBody))
+            .build();
+}
 
 	private static boolean isRetryableStatus(int statusCode) {
 		return statusCode == 429 || statusCode == 500 || statusCode == 502 || statusCode == 503 || statusCode == 504;
