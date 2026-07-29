@@ -270,7 +270,7 @@ The report concludes with:
 
 # 💬 AI Relationship Advisor
 
-<img src="Assets/Chat AI Advisor.png" width="55%"/>
+<img src="Assets/AI chat advisor.png" width="55%"/>
 
 The built-in AI Advisor enables users to ask personalized questions about any recommended profile.
 
@@ -285,7 +285,20 @@ The built-in AI Advisor enables users to ask personalized questions about any re
 Powered by **Google Gemini AI**, the advisor provides contextual, profile-aware guidance to support informed decision-making.
 
 ---
+## 💬 Personal Chat
 
+<img src="Assets/Personal chat1.png" width="55%"/>
+
+<img src="Assets/Personal chat2.png" width="55%"/>
+
+**REAL-TIME MESSAGING**
+Connect instantly.
+
+Once two profiles express mutual interest, they can chat directly within the platform — no need to exchange personal numbers upfront. Messages are delivered in real time using WebSocket connections, keeping conversations fast and seamless.
+
+*The built-in Personal Chat lets matched users get to know each other securely, directly within the platform.*
+
+---
 # 📂 Project Structure
 
 ```text
