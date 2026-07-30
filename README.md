@@ -63,9 +63,7 @@
 ---
 
 <p align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212744275-2c9e2b4e-f57b-4ef5-93d6-f7f6a7d7b8db.gif" width="100%">
-
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%">
 </p>
 
 # ✨ Why SoulSync AI?
